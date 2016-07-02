@@ -16,19 +16,19 @@
 				<viewtype label="535">list</viewtype>
 				<pagecontrol>60</pagecontrol>
 				<scrolltime>200</scrolltime>
-				<itemlayout height="40" width="580">
+				<itemlayout height="80" width="580">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>690</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemNF.png</texture>
 					</control>
 					<control type="label">
 						<left>10</left>
 						<top>0</top>
 						<width>580</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -40,7 +40,7 @@
 						<left>280</left>
 						<top>0</top>
 						<width>400</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -53,7 +53,7 @@
 						<left>220</left>
 						<top>0</top>
 						<width>400</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -90,12 +90,12 @@
 						<visible>Window.IsVisible(Videos)</visible>
 					</control>
 				</itemlayout>
-				<focusedlayout height="40" width="580">
+				<focusedlayout height="80" width="580">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>690</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemNF.png</texture>
 						<visible>!Control.HasFocus(50)</visible>
 						<include>VisibleFadeEffect</include>
@@ -104,7 +104,7 @@
 						<left>0</left>
 						<top>0</top>
 						<width>690</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemFO.png</texture>
 						<visible>Control.HasFocus(50)</visible>
 						<include>VisibleFadeEffect</include>
@@ -121,7 +121,7 @@
 						<left>10</left>
 						<top>0</top>
 						<width>580</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<textcolor>white</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -133,7 +133,7 @@
 						<left>280</left>
 						<top>0</top>
 						<width>400</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -146,7 +146,7 @@
 						<left>220</left>
 						<top>0</top>
 						<width>400</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -509,12 +509,12 @@
 				<viewtype label="537">list</viewtype>
 				<pagecontrol>60</pagecontrol>
 				<scrolltime>200</scrolltime>
-				<itemlayout height="40" width="1080">
+				<itemlayout height="80" width="1080">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>1080</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemNF.png</texture>
 					</control>
 					<control type="image">
@@ -529,7 +529,7 @@
 						<left>60</left>
 						<top>0</top>
 						<width>950</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -541,7 +541,7 @@
 						<left>60</left>
 						<top>0</top>
 						<width>1000</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -554,7 +554,7 @@
 						<left>65</left>
 						<top>0</top>
 						<width>940</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -591,12 +591,12 @@
 						<visible>Window.IsVisible(Videos)</visible>
 					</control>
 				</itemlayout>
-				<focusedlayout height="40" width="1080">
+				<focusedlayout height="80" width="1080">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>1080</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemNF.png</texture>
 						<visible>!Control.HasFocus(51)</visible>
 						<include>VisibleFadeEffect</include>
@@ -605,7 +605,7 @@
 						<left>0</left>
 						<top>0</top>
 						<width>1080</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemFO.png</texture>
 						<visible>Control.HasFocus(51)</visible>
 						<include>VisibleFadeEffect</include>
@@ -630,7 +630,7 @@
 						<left>60</left>
 						<top>0</top>
 						<width>950</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<textcolor>white</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -642,7 +642,7 @@
 						<left>60</left>
 						<top>0</top>
 						<width>1000</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -655,7 +655,7 @@
 						<left>65</left>
 						<top>0</top>
 						<width>940</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>

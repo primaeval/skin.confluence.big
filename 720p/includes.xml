@@ -123,19 +123,19 @@
 			<pagecontrol>61</pagecontrol>
 			<scrolltime>200</scrolltime>
 			<orientation>vertical</orientation>
-			<itemlayout height="40" width="$PARAM[item-width]">
+			<itemlayout height="80" width="$PARAM[item-width]">
 				<control type="image">
 					<left>0</left>
 					<top>0</top>
 					<width>$PARAM[item-width]</width>
-					<height>40</height>
+					<height>80</height>
 					<texture border="5">button-nofocus.png</texture>
 				</control>
 				<control type="label">
 					<left>10</left>
 					<top>0</top>
 					<width>$PARAM[label-width]</width>
-					<height>40</height>
+					<height>80</height>
 					<font>font12</font>
 					<align>left</align>
 					<aligny>center</aligny>
@@ -146,7 +146,7 @@
 					<left>10</left>
 					<top>0</top>
 					<width>$PARAM[label-width]</width>
-					<height>40</height>
+					<height>80</height>
 					<font>font12</font>
 					<align>right</align>
 					<aligny>center</aligny>
@@ -154,12 +154,12 @@
 					<label>$INFO[ListItem.Duration]</label>
 				</control>
 			</itemlayout>
-			<focusedlayout height="40" width="$PARAM[item-width]">
+			<focusedlayout height="80" width="$PARAM[item-width]">
 				<control type="image">
 					<left>0</left>
 					<top>0</top>
 					<width>$PARAM[item-width]</width>
-					<height>40</height>
+					<height>80</height>
 					<visible>!Control.HasFocus(50)</visible>
 					<texture border="5">button-nofocus.png</texture>
 				</control>
@@ -167,7 +167,7 @@
 					<left>0</left>
 					<top>0</top>
 					<width>$PARAM[item-width]</width>
-					<height>40</height>
+					<height>80</height>
 					<visible>Control.HasFocus(50)</visible>
 					<texture border="5">button-focus2.png</texture>
 				</control>
@@ -175,7 +175,7 @@
 					<left>10</left>
 					<top>0</top>
 					<width>$PARAM[label-width]</width>
-					<height>40</height>
+					<height>80</height>
 					<font>font12</font>
 					<align>left</align>
 					<aligny>center</aligny>
@@ -186,7 +186,7 @@
 					<left>10</left>
 					<top>0</top>
 					<width>$PARAM[label-width]</width>
-					<height>40</height>
+					<height>80</height>
 					<font>font12</font>
 					<align>right</align>
 					<aligny>center</aligny>
@@ -210,7 +210,7 @@
 			<left>40</left>
 			<top>16</top>
 			<width>$PARAM[DialogHeaderWidth]</width>
-			<height>40</height>
+			<height>80</height>
 			<texture>dialogheader.png</texture>
 		</control>
 		<control type="label" id="$PARAM[DialogHeaderId]">
@@ -269,7 +269,7 @@
 		<aligny>center</aligny>
 	</include>
 	<include name="ButtonCommonValues">
-		<height>40</height>
+		<height>80</height>
 		<width>250</width>
 		<textoffsetx>10</textoffsetx>
 		<textwidth>200</textwidth>
@@ -280,7 +280,7 @@
 		<pulseonselect>false</pulseonselect>
 	</include>
 	<include name="ButtonMediaSubCommonValues">
-		<height>40</height>
+		<height>80</height>
 		<width>221</width>
 		<textoffsetx>20</textoffsetx>
 		<textwidth>195</textwidth>
@@ -317,7 +317,7 @@
 		<animation effect="slide" start="0,0" end="0,-40" time="0" tween="quadratic" easing="out">Hidden</animation>
 	</include>
 	<include name="ButtonInfoDialogsCommonValues">
-		<height>40</height>
+		<height>80</height>
 		<width>170</width>
 		<textoffsetx>5</textoffsetx>
 		<align>center</align>
