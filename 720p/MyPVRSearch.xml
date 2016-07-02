@@ -124,12 +124,12 @@
 					<onright>77</onright>
 					<pagecontrol>77</pagecontrol>
 					<scrolltime>200</scrolltime>
-					<itemlayout height="40">
+					<itemlayout height="80">
 						<control type="image">
 							<left>0</left>
 							<top>0</top>
 							<width>1100</width>
-							<height>41</height>
+							<height>82</height>
 							<texture border="5">MenuItemNF.png</texture>
 						</control>
 						<control type="group">
@@ -138,7 +138,7 @@
 								<left>50</left>
 								<top>0</top>
 								<width>650</width>
-								<height>40</height>
+								<height>80</height>
 								<font>font12</font>
 								<aligny>center</aligny>
 								<textcolor>grey2</textcolor>
@@ -161,7 +161,7 @@
 								<left>50</left>
 								<top>0</top>
 								<width>190</width>
-								<height>40</height>
+								<height>80</height>
 								<font>font12</font>
 								<aligny>center</aligny>
 								<textcolor>grey2</textcolor>
@@ -173,7 +173,7 @@
 								<left>0</left>
 								<top>0</top>
 								<width>190</width>
-								<height>40</height>
+								<height>80</height>
 								<font>font12</font>
 								<aligny>center</aligny>
 								<textcolor>grey2</textcolor>
@@ -185,7 +185,7 @@
 								<left>240</left>
 								<top>0</top>
 								<width>510</width>
-								<height>40</height>
+								<height>80</height>
 								<font>font12</font>
 								<aligny>center</aligny>
 								<textcolor>grey2</textcolor>
@@ -196,7 +196,7 @@
 								<left>750</left>
 								<top>0</top>
 								<width>230</width>
-								<height>40</height>
+								<height>80</height>
 								<font>font12</font>
 								<aligny>center</aligny>
 								<textcolor>grey2</textcolor>
@@ -215,7 +215,7 @@
 								<left>1015</left>
 								<top>0</top>
 								<width>80</width>
-								<height>40</height>
+								<height>80</height>
 								<font>font10</font>
 								<aligny>center</aligny>
 								<textcolor>grey2</textcolor>
@@ -243,7 +243,7 @@
 								<left>1010</left>
 								<top>0</top>
 								<width>80</width>
-								<height>40</height>
+								<height>80</height>
 								<font>font10</font>
 								<aligny>center</aligny>
 								<textcolor>grey2</textcolor>
@@ -261,19 +261,19 @@
 							</control>
 						</control>
 					</itemlayout>
-					<focusedlayout height="40">
+					<focusedlayout height="80">
 						<control type="image">
 							<left>0</left>
 							<top>0</top>
 							<width>1100</width>
-							<height>41</height>
+							<height>82</height>
 							<texture border="5">MenuItemNF.png</texture>
 						</control>
 						<control type="image">
 							<left>0</left>
 							<top>0</top>
 							<width>1100</width>
-							<height>41</height>
+							<height>82</height>
 							<texture border="5">MenuItemFO.png</texture>
 							<visible>Control.HasFocus(50)</visible>
 						</control>
@@ -283,7 +283,7 @@
 								<left>50</left>
 								<top>0</top>
 								<width>650</width>
-								<height>40</height>
+								<height>80</height>
 								<font>font12</font>
 								<aligny>center</aligny>
 								<textcolor>grey2</textcolor>
@@ -306,7 +306,7 @@
 								<left>50</left>
 								<top>0</top>
 								<width>190</width>
-								<height>40</height>
+								<height>80</height>
 								<font>font12</font>
 								<aligny>center</aligny>
 								<textcolor>grey2</textcolor>
@@ -318,7 +318,7 @@
 								<left>0</left>
 								<top>0</top>
 								<width>190</width>
-								<height>40</height>
+								<height>80</height>
 								<font>font12</font>
 								<aligny>center</aligny>
 								<textcolor>grey2</textcolor>
@@ -330,7 +330,7 @@
 								<left>240</left>
 								<top>0</top>
 								<width>510</width>
-								<height>40</height>
+								<height>80</height>
 								<font>font12</font>
 								<aligny>center</aligny>
 								<textcolor>white</textcolor>
@@ -341,7 +341,7 @@
 								<left>750</left>
 								<top>0</top>
 								<width>230</width>
-								<height>40</height>
+								<height>80</height>
 								<font>font12</font>
 								<aligny>center</aligny>
 								<textcolor>white</textcolor>
@@ -360,7 +360,7 @@
 								<left>1015</left>
 								<top>0</top>
 								<width>80</width>
-								<height>40</height>
+								<height>80</height>
 								<font>font10</font>
 								<aligny>center</aligny>
 								<textcolor>grey2</textcolor>
@@ -388,7 +388,7 @@
 								<left>1010</left>
 								<top>0</top>
 								<width>80</width>
-								<height>40</height>
+								<height>80</height>
 								<font>font10</font>
 								<aligny>center</aligny>
 								<textcolor>grey2</textcolor>

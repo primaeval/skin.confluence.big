@@ -73,7 +73,7 @@
 			<control type="button" id="2">
 				<description>Exit button</description>
 				<width>340</width>
-				<height>40</height>
+				<height>80</height>
 				<textcolor>grey2</textcolor>
 				<focusedcolor>white</focusedcolor>
 				<align>center</align>
@@ -89,7 +89,7 @@
 			<control type="button" id="3">
 				<description>Shutdown button</description>
 				<width>340</width>
-				<height>40</height>
+				<height>80</height>
 				<textcolor>grey2</textcolor>
 				<focusedcolor>white</focusedcolor>
 				<align>center</align>
@@ -105,7 +105,7 @@
 			<control type="button" id="4">
 				<description>Custom Shutdown Timer</description>
 				<width>340</width>
-				<height>40</height>
+				<height>80</height>
 				<textcolor>grey2</textcolor>
 				<focusedcolor>white</focusedcolor>
 				<align>center</align>
@@ -122,7 +122,7 @@
 			<control type="button" id="5">
 				<description>Cancel Shutdown Timer</description>
 				<width>340</width>
-				<height>40</height>
+				<height>80</height>
 				<textcolor>grey2</textcolor>
 				<focusedcolor>white</focusedcolor>
 				<align>center</align>
@@ -138,7 +138,7 @@
 			<control type="button" id="6">
 				<description>Suspend button</description>
 				<width>340</width>
-				<height>40</height>
+				<height>80</height>
 				<textcolor>grey2</textcolor>
 				<focusedcolor>white</focusedcolor>
 				<align>center</align>
@@ -154,7 +154,7 @@
 			<control type="button" id="7">
 				<description>Hibernate button</description>
 				<width>340</width>
-				<height>40</height>
+				<height>80</height>
 				<textcolor>grey2</textcolor>
 				<focusedcolor>white</focusedcolor>
 				<align>center</align>
@@ -170,7 +170,7 @@
 			<control type="button" id="8">
 				<description>Reboot button</description>
 				<width>340</width>
-				<height>40</height>
+				<height>80</height>
 				<textcolor>grey2</textcolor>
 				<focusedcolor>white</focusedcolor>
 				<align>center</align>
@@ -186,7 +186,7 @@
 			<control type="button" id="9">
 				<description>Logoff button</description>
 				<width>340</width>
-				<height>40</height>
+				<height>80</height>
 				<textcolor>grey2</textcolor>
 				<focusedcolor>white</focusedcolor>
 				<align>center</align>
@@ -204,7 +204,7 @@
 			<control type="togglebutton" id="10">
 				<description>Master mode button</description>
 				<width>340</width>
-				<height>40</height>
+				<height>80</height>
 				<label>20046</label>
 				<altlabel>20045</altlabel>
 				<align>center</align>
@@ -249,7 +249,7 @@
 			<control type="button" id="12">
 				<description>Inhibit idle shutdown</description>
 				<width>340</width>
-				<height>40</height>
+				<height>80</height>
 				<textcolor>grey2</textcolor>
 				<focusedcolor>white</focusedcolor>
 				<align>center</align>
@@ -265,7 +265,7 @@
 			<control type="button" id="13">
 				<description>Allow idle shutdown</description>
 				<width>340</width>
-				<height>40</height>
+				<height>80</height>
 				<textcolor>grey2</textcolor>
 				<focusedcolor>white</focusedcolor>
 				<align>center</align>

@@ -57,7 +57,7 @@
 						<left>0</left>
 						<top>0</top>
 						<width>420</width>
-						<height>40</height>
+						<height>80</height>
 						<texture border="5">button-nofocus.png</texture>
 					</control>
 					<control type="image">
@@ -83,7 +83,7 @@
 						<left>45</left>
 						<top>0</top>
 						<width>335</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<align>left</align>
 						<aligny>center</aligny>
@@ -96,7 +96,7 @@
 						<left>45</left>
 						<top>0</top>
 						<width>335</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<align>left</align>
 						<aligny>center</aligny>
@@ -146,7 +146,7 @@
 						<left>45</left>
 						<top>0</top>
 						<width>335</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<align>left</align>
 						<aligny>center</aligny>
@@ -159,7 +159,7 @@
 						<left>45</left>
 						<top>0</top>
 						<width>335</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<align>left</align>
 						<aligny>center</aligny>
@@ -218,7 +218,7 @@
 					<left>0</left>
 					<top>0</top>
 					<width>380</width>
-					<height>40</height>
+					<height>80</height>
 					<font>font12</font>
 					<textcolor>white</textcolor>
 					<focusedcolor>white</focusedcolor>
@@ -235,7 +235,7 @@
 					<left>0</left>
 					<top>0</top>
 					<width>380</width>
-					<height>40</height>
+					<height>80</height>
 					<font>font12</font>
 					<textcolor>white</textcolor>
 					<focusedcolor>white</focusedcolor>
@@ -248,13 +248,13 @@
 					<left>0</left>
 					<top>0</top>
 					<width>380</width>
-					<height>40</height>
+					<height>80</height>
 					<control type="button" id="9">
 						<description>Channel logo Button</description>
 						<left>0</left>
 						<top>0</top>
 						<width>380</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<texturefocus border="5">button-focus2.png</texturefocus>
 						<texturenofocus border="5">button-nofocus.png</texturenofocus>
@@ -279,7 +279,7 @@
 					<left>0</left>
 					<top>0</top>
 					<width>380</width>
-					<height>40</height>
+					<height>80</height>
 					<font>font12</font>
 					<textcolor>white</textcolor>
 					<focusedcolor>white</focusedcolor>
@@ -296,7 +296,7 @@
 					<left>0</left>
 					<top>0</top>
 					<width>380</width>
-					<height>40</height>
+					<height>80</height>
 					<font>font12</font>
 					<texturefocus border="5">button-focus2.png</texturefocus>
 					<texturenofocus border="5">button-nofocus.png</texturenofocus>
@@ -307,7 +307,7 @@
 					<left>0</left>
 					<top>0</top>
 					<width>380</width>
-					<height>40</height>
+					<height>80</height>
 					<font>font12</font>
 					<textcolor>white</textcolor>
 					<focusedcolor>white</focusedcolor>
@@ -347,7 +347,7 @@
 					<left>0</left>
 					<top>0</top>
 					<width>380</width>
-					<height>40</height>
+					<height>80</height>
 					<font>font12</font>
 					<texturefocus border="5">button-focus2.png</texturefocus>
 					<texturenofocus border="5">button-nofocus.png</texturenofocus>
@@ -359,7 +359,7 @@
 					<left>0</left>
 					<top>0</top>
 					<width>380</width>
-					<height>40</height>
+					<height>80</height>
 					<font>font12</font>
 					<texturefocus border="5">button-focus2.png</texturefocus>
 					<texturenofocus border="5">button-nofocus.png</texturenofocus>
@@ -371,7 +371,7 @@
 					<left>0</left>
 					<top>0</top>
 					<width>380</width>
-					<height>40</height>
+					<height>80</height>
 					<font>font12</font>
 					<texturefocus border="5">button-focus2.png</texturefocus>
 					<texturenofocus border="5">button-nofocus.png</texturenofocus>
@@ -393,7 +393,7 @@
 				<left>0</left>
 				<top>0</top>
 				<width>200</width>
-				<height>40</height>
+				<height>80</height>
 				<label>186</label>
 				<font>font12_title</font>
 				<align>center</align>
@@ -408,7 +408,7 @@
 				<left>0</left>
 				<top>45</top>
 				<width>200</width>
-				<height>40</height>
+				<height>80</height>
 				<label>14070</label>
 				<font>font12_title</font>
 				<align>center</align>
@@ -423,7 +423,7 @@
 				<left>0</left>
 				<top>90</top>
 				<width>200</width>
-				<height>40</height>
+				<height>80</height>
 				<label>222</label>
 				<font>font12_title</font>
 				<align>center</align>

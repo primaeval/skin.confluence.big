@@ -101,19 +101,19 @@
 				<ondown>20</ondown>
 				<pagecontrol>30</pagecontrol>
 				<scrolltime>200</scrolltime>
-				<itemlayout height="40" width="540">
+				<itemlayout height="80" width="540">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>540</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemNF.png</texture>
 					</control>
 					<control type="label">
 						<left>0</left>
 						<top>0</top>
 						<width>500</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font30</font>
 						<aligny>center</aligny>
 						<selectedcolor>selected</selectedcolor>
@@ -125,7 +125,7 @@
 						<left>330</left>
 						<top>0</top>
 						<width>200</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font30</font>
 						<aligny>center</aligny>
 						<selectedcolor>selected</selectedcolor>
@@ -134,12 +134,12 @@
 						<info>ListItem.Label2</info>
 					</control>
 				</itemlayout>
-				<focusedlayout height="40" width="540">
+				<focusedlayout height="80" width="540">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>540</width>
-						<height>41</height>
+						<height>82</height>
 						<visible>!Control.HasFocus(20)</visible>
 						<texture border="0,2,0,2">MenuItemNF.png</texture>
 					</control>
@@ -147,7 +147,7 @@
 						<left>0</left>
 						<top>0</top>
 						<width>540</width>
-						<height>41</height>
+						<height>82</height>
 						<visible>Control.HasFocus(20)</visible>
 						<texture border="0,2,0,2">MenuItemFO.png</texture>
 					</control>
@@ -163,7 +163,7 @@
 						<left>0</left>
 						<top>0</top>
 						<width>500</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font30</font>
 						<aligny>center</aligny>
 						<selectedcolor>selected</selectedcolor>
@@ -175,7 +175,7 @@
 						<left>330</left>
 						<top>0</top>
 						<width>200</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font30</font>
 						<aligny>center</aligny>
 						<selectedcolor>selected</selectedcolor>
@@ -275,19 +275,19 @@
 				<ondown>21</ondown>
 				<pagecontrol>31</pagecontrol>
 				<scrolltime>200</scrolltime>
-				<itemlayout height="40">
+				<itemlayout height="80">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>540</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemNF.png</texture>
 					</control>
 					<control type="label">
 						<left>0</left>
 						<top>0</top>
 						<width>500</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font30</font>
 						<aligny>center</aligny>
 						<selectedcolor>selected</selectedcolor>
@@ -299,7 +299,7 @@
 						<left>330</left>
 						<top>0</top>
 						<width>200</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font30</font>
 						<aligny>center</aligny>
 						<selectedcolor>selected</selectedcolor>
@@ -308,12 +308,12 @@
 						<info>ListItem.Label2</info>
 					</control>
 				</itemlayout>
-				<focusedlayout height="40">
+				<focusedlayout height="80">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>540</width>
-						<height>41</height>
+						<height>82</height>
 						<visible>!Control.HasFocus(21)</visible>
 						<texture border="0,2,0,2">MenuItemNF.png</texture>
 					</control>
@@ -321,7 +321,7 @@
 						<left>0</left>
 						<top>0</top>
 						<width>540</width>
-						<height>41</height>
+						<height>82</height>
 						<visible>Control.HasFocus(21)</visible>
 						<texture border="0,2,0,2">MenuItemFO.png</texture>
 					</control>
@@ -337,7 +337,7 @@
 						<left>0</left>
 						<top>0</top>
 						<width>500</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font30</font>
 						<aligny>center</aligny>
 						<selectedcolor>selected</selectedcolor>
@@ -349,7 +349,7 @@
 						<left>330</left>
 						<top>0</top>
 						<width>200</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font30</font>
 						<aligny>center</aligny>
 						<selectedcolor>selected</selectedcolor>

@@ -87,7 +87,7 @@
 					<left>31</left>
 					<top>4</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<texture>OSDPause.png</texture>
 					<visible>Player.Paused</visible>
 				</control>
@@ -95,7 +95,7 @@
 					<left>31</left>
 					<top>4</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<texture>OSDPlay.png</texture>
 					<visible>Player.Playing</visible>
 				</control>
@@ -103,7 +103,7 @@
 					<left>28</left>
 					<top>4</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<texture>OSD2x.png</texture>
 					<visible>Player.Rewinding2x</visible>
 				</control>
@@ -111,7 +111,7 @@
 					<left>25</left>
 					<top>4</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<texture>OSD4x.png</texture>
 					<visible>Player.Rewinding4x</visible>
 				</control>
@@ -119,7 +119,7 @@
 					<left>22</left>
 					<top>4</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<texture>OSD8x.png</texture>
 					<visible>Player.Rewinding8x</visible>
 				</control>
@@ -127,7 +127,7 @@
 					<left>19</left>
 					<top>4</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<texture>OSD16x.png</texture>
 					<visible>Player.Rewinding16x</visible>
 				</control>
@@ -135,7 +135,7 @@
 					<left>17</left>
 					<top>4</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<texture>OSD32x.png</texture>
 					<visible>Player.Rewinding32x</visible>
 				</control>
@@ -143,7 +143,7 @@
 					<left>34</left>
 					<top>4</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<texture>OSD2x.png</texture>
 					<visible>Player.Forwarding2x</visible>
 				</control>
@@ -151,7 +151,7 @@
 					<left>37</left>
 					<top>4</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<texture>OSD4x.png</texture>
 					<visible>Player.Forwarding4x</visible>
 				</control>
@@ -159,7 +159,7 @@
 					<left>40</left>
 					<top>4</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<texture>OSD8x.png</texture>
 					<visible>Player.Forwarding8x</visible>
 				</control>
@@ -167,7 +167,7 @@
 					<left>43</left>
 					<top>4</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<texture>OSD16x.png</texture>
 					<visible>Player.Forwarding16x</visible>
 				</control>
@@ -175,7 +175,7 @@
 					<left>45</left>
 					<top>4</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<texture>OSD32x.png</texture>
 					<visible>Player.Forwarding32x</visible>
 				</control>

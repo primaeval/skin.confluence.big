@@ -227,7 +227,7 @@
 					<left>-40</left>
 					<top>90</top>
 					<width>30</width>
-					<height>40</height>
+					<height>80</height>
 					<texturefocus>arrow-big-left.png</texturefocus>
 					<texturenofocus>arrow-big-left.png</texturenofocus>
 					<onclick>Control.Move(8000,-1)</onclick>
@@ -239,7 +239,7 @@
 					<left>910</left>
 					<top>90</top>
 					<width>30</width>
-					<height>40</height>
+					<height>80</height>
 					<texturefocus>arrow-big-right.png</texturefocus>
 					<texturenofocus>arrow-big-right.png</texturenofocus>
 					<onclick>Control.Move(8000,1)</onclick>
@@ -489,7 +489,7 @@
 					<left>-40</left>
 					<top>90</top>
 					<width>30</width>
-					<height>40</height>
+					<height>80</height>
 					<texturefocus>arrow-big-left.png</texturefocus>
 					<texturenofocus>arrow-big-left.png</texturenofocus>
 					<onclick>Control.Move(8001,-1)</onclick>
@@ -501,7 +501,7 @@
 					<left>970</left>
 					<top>90</top>
 					<width>30</width>
-					<height>40</height>
+					<height>80</height>
 					<texturefocus>arrow-big-right.png</texturefocus>
 					<texturenofocus>arrow-big-right.png</texturenofocus>
 					<onclick>Control.Move(8001,1)</onclick>
@@ -761,7 +761,7 @@
 					<left>-40</left>
 					<top>90</top>
 					<width>30</width>
-					<height>40</height>
+					<height>80</height>
 					<texturefocus>arrow-big-left.png</texturefocus>
 					<texturenofocus>arrow-big-left.png</texturenofocus>
 					<onclick>Control.Move(8002,-1)</onclick>
@@ -773,7 +773,7 @@
 					<left>810</left>
 					<top>90</top>
 					<width>30</width>
-					<height>40</height>
+					<height>80</height>
 					<texturefocus>arrow-big-right.png</texturefocus>
 					<texturenofocus>arrow-big-right.png</texturenofocus>
 					<onclick>Control.Move(8002,1)</onclick>

@@ -35,7 +35,7 @@
 		<left>140</left>
 		<top>167</top>
 		<width>40</width>
-		<height>40</height>
+		<height>80</height>
 		<texturefocus>scroll-up-focus.png</texturefocus>
 		<texturenofocus>scroll-up.png</texturenofocus>
 		<alttexturefocus>scroll-down-focus.png</alttexturefocus>

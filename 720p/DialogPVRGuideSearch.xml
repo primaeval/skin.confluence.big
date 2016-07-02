@@ -21,7 +21,7 @@
 			<left>30</left>
 			<top>60</top>
 			<width>320</width>
-			<height>40</height>
+			<height>80</height>
 			<font>font13</font>
 			<label>$LOCALIZE[19133]</label>
 			<align>left</align>
@@ -42,7 +42,7 @@
 			<left>35</left>
 			<top>105</top>
 			<width>790</width>
-			<height>40</height>
+			<height>80</height>
 			<font>font13</font>
 			<textcolor>white</textcolor>
 			<shadowcolor>black</shadowcolor>
@@ -373,7 +373,7 @@
 				<left>0</left>
 				<top>0</top>
 				<width>200</width>
-				<height>40</height>
+				<height>80</height>
 				<align>center</align>
 				<aligny>center</aligny>
 				<font>font12_title</font>
@@ -388,7 +388,7 @@
 				<left>210</left>
 				<top>0</top>
 				<width>200</width>
-				<height>40</height>
+				<height>80</height>
 				<align>center</align>
 				<aligny>center</aligny>
 				<font>font12_title</font>
@@ -403,7 +403,7 @@
 				<left>420</left>
 				<top>0</top>
 				<width>200</width>
-				<height>40</height>
+				<height>80</height>
 				<align>center</align>
 				<aligny>center</aligny>
 				<font>font12_title</font>

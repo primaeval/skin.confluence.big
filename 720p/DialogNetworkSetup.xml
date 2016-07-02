@@ -20,7 +20,7 @@
 			<description>Protocol SpinControl</description>
 			<left>30</left>
 			<top>70</top>
-			<height>40</height>
+			<height>80</height>
 			<width>740</width>
 			<texturefocus border="5">button-focus2.png</texturefocus>
 			<texturenofocus border="5">button-nofocus.png</texturenofocus>
@@ -41,7 +41,7 @@
 			<left>30</left>
 			<top>115</top>
 			<width>565</width>
-			<height>40</height>
+			<height>80</height>
 			<textoffsetx>12</textoffsetx>
 			<aligny>center</aligny>
 			<texturefocus border="5">button-focus2.png</texturefocus>
@@ -57,7 +57,7 @@
 			<left>600</left>
 			<top>115</top>
 			<width>170</width>
-			<height>40</height>
+			<height>80</height>
 			<textoffsetx>12</textoffsetx>
 			<font>font12_title</font>
 			<label>1024</label>
@@ -73,7 +73,7 @@
 			<left>30</left>
 			<top>160</top>
 			<width>740</width>
-			<height>40</height>
+			<height>80</height>
 			<textoffsetx>12</textoffsetx>
 			<aligny>center</aligny>
 			<texturefocus border="5">button-focus2.png</texturefocus>
@@ -89,7 +89,7 @@
 			<left>30</left>
 			<top>205</top>
 			<width>740</width>
-			<height>40</height>
+			<height>80</height>
 			<textoffsetx>12</textoffsetx>
 			<aligny>center</aligny>
 			<texturefocus border="5">button-focus2.png</texturefocus>
@@ -105,7 +105,7 @@
 			<left>30</left>
 			<top>250</top>
 			<width>740</width>
-			<height>40</height>
+			<height>80</height>
 			<textoffsetx>12</textoffsetx>
 			<aligny>center</aligny>
 			<texturefocus border="5">button-focus2.png</texturefocus>
@@ -121,7 +121,7 @@
 			<left>30</left>
 			<top>295</top>
 			<width>740</width>
-			<height>40</height>
+			<height>80</height>
 			<textoffsetx>12</textoffsetx>
 			<aligny>center</aligny>
 			<texturefocus border="5">button-focus2.png</texturefocus>
@@ -137,7 +137,7 @@
 			<left>195</left>
 			<top>375</top>
 			<width>200</width>
-			<height>40</height>
+			<height>80</height>
 			<align>center</align>
 			<aligny>center</aligny>
 			<font>font12_title</font>
@@ -152,7 +152,7 @@
 			<left>405</left>
 			<top>375</top>
 			<width>200</width>
-			<height>40</height>
+			<height>80</height>
 			<align>center</align>
 			<aligny>center</aligny>
 			<font>font12_title</font>

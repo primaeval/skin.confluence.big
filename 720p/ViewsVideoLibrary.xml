@@ -780,19 +780,19 @@
 				<pagecontrol>60</pagecontrol>
 				<scrolltime>200</scrolltime>
 				<visible>Container.Content(TVShows) | Container.Content(Seasons) | Container.Content(Episodes) | Container.Content(Movies)</visible>
-				<itemlayout height="40" width="580">
+				<itemlayout height="80" width="580">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>580</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemNF.png</texture>
 					</control>
 					<control type="label">
 						<left>10</left>
 						<top>0</top>
 						<width>520</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -804,7 +804,7 @@
 						<left>10</left>
 						<top>0</top>
 						<width>500</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -840,12 +840,12 @@
 						<aspectratio align="left">keep</aspectratio>
 					</control>
 				</itemlayout>
-				<focusedlayout height="40" width="580">
+				<focusedlayout height="80" width="580">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>580</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemNF.png</texture>
 						<visible>!Control.HasFocus(503)</visible>
 						<include>VisibleFadeEffect</include>
@@ -854,7 +854,7 @@
 						<left>0</left>
 						<top>0</top>
 						<width>580</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemFO.png</texture>
 						<visible>Control.HasFocus(503)</visible>
 						<include>VisibleFadeEffect</include>
@@ -871,7 +871,7 @@
 						<left>10</left>
 						<top>0</top>
 						<width>520</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<textcolor>white</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -883,7 +883,7 @@
 						<left>10</left>
 						<top>0</top>
 						<width>500</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -1212,19 +1212,19 @@
 				<pagecontrol>60</pagecontrol>
 				<scrolltime>200</scrolltime>
 				<visible>Container.Content(TVShows) | Container.Content(Movies) | Container.Content(Episodes)</visible>
-				<itemlayout height="40" width="580">
+				<itemlayout height="80" width="580">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>580</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemNF.png</texture>
 					</control>
 					<control type="label">
 						<left>10</left>
 						<top>0</top>
 						<width>520</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -1236,7 +1236,7 @@
 						<left>10</left>
 						<top>0</top>
 						<width>500</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -1272,12 +1272,12 @@
 						<aspectratio align="left">keep</aspectratio>
 					</control>
 				</itemlayout>
-				<focusedlayout height="40" width="580">
+				<focusedlayout height="80" width="580">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>580</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemNF.png</texture>
 						<visible>!Control.HasFocus(504)</visible>
 						<include>VisibleFadeEffect</include>
@@ -1286,7 +1286,7 @@
 						<left>0</left>
 						<top>0</top>
 						<width>580</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemFO.png</texture>
 						<visible>Control.HasFocus(504)</visible>
 						<include>VisibleFadeEffect</include>
@@ -1303,7 +1303,7 @@
 						<left>10</left>
 						<top>0</top>
 						<width>520</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<textcolor>white</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -1315,7 +1315,7 @@
 						<left>10</left>
 						<top>0</top>
 						<width>500</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -1612,19 +1612,19 @@
 				<pagecontrol>60</pagecontrol>
 				<scrolltime>200</scrolltime>
 				<visible>Container.Content(TVShows) | Container.Content(Movies) | Container.Content(Episodes) | Container.Content(Seasons)</visible>
-				<itemlayout height="40" width="345">
+				<itemlayout height="80" width="345">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>345</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemNF.png</texture>
 					</control>
 					<control type="label">
 						<left>10</left>
 						<top>0</top>
 						<width>310</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -1649,12 +1649,12 @@
 						<aspectratio>keep</aspectratio>
 					</control>
 				</itemlayout>
-				<focusedlayout height="40" width="345">
+				<focusedlayout height="80" width="345">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>345</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemNF.png</texture>
 						<visible>!Control.HasFocus(515)</visible>
 						<include>VisibleFadeEffect</include>
@@ -1663,7 +1663,7 @@
 						<left>0</left>
 						<top>0</top>
 						<width>345</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemFO.png</texture>
 						<visible>Control.HasFocus(515)</visible>
 						<include>VisibleFadeEffect</include>
@@ -1672,7 +1672,7 @@
 						<left>10</left>
 						<top>0</top>
 						<width>310</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<textcolor>white</textcolor>
 						<selectedcolor>selected</selectedcolor>

@@ -53,7 +53,7 @@
 				<left>40</left>
 				<top>16</top>
 				<width>770</width>
-				<height>40</height>
+				<height>80</height>
 				<texture>dialogheader.png</texture>
 			</control>
 			<control type="label" id="1">
@@ -106,14 +106,14 @@
 						<left>0</left>
 						<top>0</top>
 						<width>550</width>
-						<height>40</height>
+						<height>80</height>
 						<texture border="5">button-nofocus.png</texture>
 					</control>
 					<control type="label">
 						<left>20</left>
 						<top>0</top>
 						<width>510</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -127,7 +127,7 @@
 						<left>0</left>
 						<top>0</top>
 						<width>550</width>
-						<height>40</height>
+						<height>80</height>
 						<texture border="5">button-nofocus.png</texture>
 						<visible>!Control.HasFocus(3)</visible>
 						<include>VisibleFadeEffect</include>
@@ -136,7 +136,7 @@
 						<left>0</left>
 						<top>0</top>
 						<width>550</width>
-						<height>40</height>
+						<height>80</height>
 						<texture border="5">button-focus2.png</texture>
 						<visible>Control.HasFocus(3)</visible>
 						<include>VisibleFadeEffect</include>
@@ -145,7 +145,7 @@
 						<left>20</left>
 						<top>0</top>
 						<width>510</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<textcolor>white</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -303,7 +303,7 @@
 					<control type="button" id="5">
 						<description>Manual button</description>
 						<width>200</width>
-						<height>40</height>
+						<height>80</height>
 						<label>-</label>
 						<font>font12_title</font>
 						<textcolor>white</textcolor>
@@ -313,7 +313,7 @@
 					<control type="button" id="99">
 						<description>Cancel button</description>
 						<width>200</width>
-						<height>40</height>
+						<height>80</height>
 						<label>222</label>
 						<font>font12_title</font>
 						<textcolor>white</textcolor>

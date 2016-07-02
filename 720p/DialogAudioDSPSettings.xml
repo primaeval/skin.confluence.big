@@ -22,7 +22,7 @@
 				<left>40</left>
 				<top>16</top>
 				<width>720</width>
-				<height>40</height>
+				<height>80</height>
 				<texture>dialogheader.png</texture>
 			</control>
 			<control type="label" id="2">
@@ -174,7 +174,7 @@
 			<description>Default Button</description>
 			<left>0</left>
 			<top>0</top>
-			<height>40</height>
+			<height>80</height>
 			<font>font13</font>
 			<textcolor>grey2</textcolor>
 			<focusedcolor>white</focusedcolor>
@@ -184,7 +184,7 @@
 			<description>Default RadioButton</description>
 			<left>0</left>
 			<top>0</top>
-			<height>40</height>
+			<height>80</height>
 			<font>font13</font>
 			<textcolor>grey2</textcolor>
 			<focusedcolor>white</focusedcolor>
@@ -194,7 +194,7 @@
 			<description>Default SpinControlex</description>
 			<left>0</left>
 			<top>0</top>
-			<height>40</height>
+			<height>80</height>
 			<font>font13</font>
 			<textcolor>grey2</textcolor>
 			<focusedcolor>white</focusedcolor>
@@ -212,7 +212,7 @@
 			<description>Default Edit</description>
 			<left>0</left>
 			<top>0</top>
-			<height>40</height>
+			<height>80</height>
 			<font>font13</font>
 			<textcolor>grey2</textcolor>
 			<focusedcolor>white</focusedcolor>
@@ -221,7 +221,7 @@
 		</control>
 		<control type="sliderex" id="13">
 			<description>Default Slider</description>
-			<height>40</height>
+			<height>80</height>
 			<texturenofocus border="5">button-nofocus.png</texturenofocus>
 			<texturefocus border="5">button-focus2.png</texturefocus>
 			<font>font13</font>

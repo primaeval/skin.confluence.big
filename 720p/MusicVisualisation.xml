@@ -262,7 +262,7 @@
 					<left>0</left>
 					<top>0</top>
 					<width>100</width>
-					<height>40</height>
+					<height>80</height>
 					<font>font13</font>
 					<align>left</align>
 					<aligny>center</aligny>
@@ -280,7 +280,7 @@
 					<left>820</left>
 					<top>0</top>
 					<width>100</width>
-					<height>40</height>
+					<height>80</height>
 					<font>font13</font>
 					<align>right</align>
 					<aligny>center</aligny>

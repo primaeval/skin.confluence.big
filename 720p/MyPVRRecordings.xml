@@ -68,12 +68,12 @@
 				<viewtype label="535">list</viewtype>
 				<pagecontrol>72</pagecontrol>
 				<scrolltime>200</scrolltime>
-				<itemlayout height="40" width="760">
+				<itemlayout height="80" width="760">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>760</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="2">MenuItemNF.png</texture>
 						<include>VisibleFadeEffect</include>
 					</control>
@@ -89,7 +89,7 @@
 						<left>50</left>
 						<top>0</top>
 						<width>605</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -101,7 +101,7 @@
 						<left>225</left>
 						<top>0</top>
 						<width>500</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -126,12 +126,12 @@
 						<aspectratio>keep</aspectratio>
 					</control>
 				</itemlayout>
-				<focusedlayout height="40" width="760">
+				<focusedlayout height="80" width="760">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>760</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="2">MenuItemFO.png</texture>
 						<visible>Control.HasFocus(50)</visible>
 						<include>VisibleFadeEffect</include>
@@ -140,7 +140,7 @@
 						<left>0</left>
 						<top>0</top>
 						<width>760</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="2">MenuItemNF.png</texture>
 						<include>VisibleFadeEffect</include>
 						<visible>!Control.HasFocus(50)</visible>
@@ -165,7 +165,7 @@
 						<left>50</left>
 						<top>0</top>
 						<width>630</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<textcolor>white</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -177,7 +177,7 @@
 						<left>225</left>
 						<top>0</top>
 						<width>500</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>

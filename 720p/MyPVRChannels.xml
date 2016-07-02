@@ -434,7 +434,7 @@
 					<left>580</left>
 					<top>-3</top>
 					<width>104</width>
-					<height>40</height>
+					<height>80</height>
 					<visible>!RDS.HasRadioText</visible>
 					<texture>flagging/rds/rds-logo.png</texture>
 				</control>
@@ -450,7 +450,7 @@
 					<left>580</left>
 					<top>-3</top>
 					<width>104</width>
-					<height>40</height>
+					<height>80</height>
 					<visible>RDS.HasRadioTextPlus</visible>
 					<texture>flagging/rds/rds-radiotext-plus-logo.png</texture>
 				</control>

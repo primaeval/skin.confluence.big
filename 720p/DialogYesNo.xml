@@ -33,7 +33,7 @@
 			<left>95</left>
 			<top>175</top>
 			<width>200</width>
-			<height>40</height>
+			<height>80</height>
 			<label>107</label>
 			<font>font12_title</font>
 			<textcolor>white</textcolor>
@@ -49,7 +49,7 @@
 			<left>305</left>
 			<top>175</top>
 			<width>200</width>
-			<height>40</height>
+			<height>80</height>
 			<label>106</label>
 			<font>font12_title</font>
 			<textcolor>white</textcolor>

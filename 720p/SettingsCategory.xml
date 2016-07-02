@@ -204,7 +204,7 @@
 			<description>Default Button</description>
 			<left>0</left>
 			<top>0</top>
-			<height>40</height>
+			<height>80</height>
 			<font>font13</font>
 			<textcolor>grey2</textcolor>
 			<focusedcolor>white</focusedcolor>
@@ -216,7 +216,7 @@
 			<description>Default RadioButton</description>
 			<left>0</left>
 			<top>0</top>
-			<height>40</height>
+			<height>80</height>
 			<font>font13</font>
 			<textcolor>grey2</textcolor>
 			<focusedcolor>white</focusedcolor>
@@ -227,7 +227,7 @@
 			<description>Default SpinControlex</description>
 			<left>0</left>
 			<top>0</top>
-			<height>40</height>
+			<height>80</height>
 			<font>font13</font>
 			<textcolor>grey2</textcolor>
 			<focusedcolor>white</focusedcolor>
@@ -240,7 +240,7 @@
 			<description>Default Slider</description>
 			<posx>0</posx>
 			<posy>0</posy>
-			<height>40</height>
+			<height>80</height>
 			<font>font13</font>
 			<textcolor>grey2</textcolor>
 			<focusedcolor>white</focusedcolor>

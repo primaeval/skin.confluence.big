@@ -45,14 +45,14 @@
 					<left>0</left>
 					<top>0</top>
 					<width>525</width>
-					<height>40</height>
+					<height>80</height>
 					<texture border="5">button-nofocus.png</texture>
 				</control>
 				<control type="label">
 					<left>10</left>
 					<top>0</top>
 					<width>490</width>
-					<height>40</height>
+					<height>80</height>
 					<font>font13</font>
 					<align>left</align>
 					<aligny>center</aligny>
@@ -66,7 +66,7 @@
 					<left>0</left>
 					<top>0</top>
 					<width>525</width>
-					<height>40</height>
+					<height>80</height>
 					<visible>!Control.HasFocus(10)</visible>
 					<texture border="5">button-nofocus.png</texture>
 				</control>
@@ -74,7 +74,7 @@
 					<left>0</left>
 					<top>0</top>
 					<width>525</width>
-					<height>41</height>
+					<height>82</height>
 					<visible>Control.HasFocus(10)</visible>
 					<texture border="5">button-focus2.png</texture>
 				</control>
@@ -82,7 +82,7 @@
 					<left>10</left>
 					<top>0</top>
 					<width>490</width>
-					<height>40</height>
+					<height>80</height>
 					<font>font13</font>
 					<align>left</align>
 					<aligny>center</aligny>
@@ -114,7 +114,7 @@
 				<left>0</left>
 				<top>0</top>
 				<width>190</width>
-				<height>40</height>
+				<height>80</height>
 				<label>1024</label>
 				<font>font12_title</font>
 				<align>center</align>
@@ -131,7 +131,7 @@
 				<left>0</left>
 				<top>45</top>
 				<width>190</width>
-				<height>40</height>
+				<height>80</height>
 				<label>15019</label>
 				<font>font12_title</font>
 				<align>center</align>
@@ -148,7 +148,7 @@
 				<left>0</left>
 				<top>90</top>
 				<width>190</width>
-				<height>40</height>
+				<height>80</height>
 				<label>1210</label>
 				<font>font12_title</font>
 				<align>center</align>
@@ -179,7 +179,7 @@
 			<left>30</left>
 			<top>370</top>
 			<width>740</width>
-			<height>40</height>
+			<height>80</height>
 			<align>center</align>
 			<aligny>center</aligny>
 			<label>-</label>
@@ -199,7 +199,7 @@
 				<left>0</left>
 				<top>0</top>
 				<width>200</width>
-				<height>40</height>
+				<height>80</height>
 				<align>center</align>
 				<aligny>center</aligny>
 				<texturenofocus border="5">button-nofocus.png</texturenofocus>
@@ -216,7 +216,7 @@
 				<left>210</left>
 				<top>0</top>
 				<width>200</width>
-				<height>40</height>
+				<height>80</height>
 				<align>center</align>
 				<aligny>center</aligny>
 				<texturenofocus border="5">button-nofocus.png</texturenofocus>

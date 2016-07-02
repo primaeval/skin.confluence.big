@@ -17,19 +17,19 @@
 				<visible>Window.IsVisible(AddonBrowser) | Container.Content(Addons)</visible>
 				<pagecontrol>60</pagecontrol>
 				<scrolltime>200</scrolltime>
-				<itemlayout height="40" width="580">
+				<itemlayout height="80" width="580">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>580</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemNF.png</texture>
 					</control>
 					<control type="label">
 						<left>10</left>
 						<top>0</top>
 						<width>520</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -41,7 +41,7 @@
 						<left>55</left>
 						<top>0</top>
 						<width>500</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -50,12 +50,12 @@
 						<label>$INFO[ListItem.Property(Addon.Status)]</label>
 					</control>
 				</itemlayout>
-				<focusedlayout height="40" width="580">
+				<focusedlayout height="80" width="580">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>580</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemNF.png</texture>
 						<visible>!Control.HasFocus(550)</visible>
 						<include>VisibleFadeEffect</include>
@@ -64,7 +64,7 @@
 						<left>0</left>
 						<top>0</top>
 						<width>580</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="0,2,0,2">MenuItemFO.png</texture>
 						<visible>Control.HasFocus(550)</visible>
 						<include>VisibleFadeEffect</include>
@@ -81,7 +81,7 @@
 						<left>10</left>
 						<top>0</top>
 						<width>520</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<textcolor>white</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -93,7 +93,7 @@
 						<left>55</left>
 						<top>0</top>
 						<width>500</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font12</font>
 						<textcolor>grey2</textcolor>
 						<selectedcolor>selected</selectedcolor>

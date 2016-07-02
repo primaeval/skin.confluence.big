@@ -44,14 +44,14 @@
 					<left>0</left>
 					<top>0</top>
 					<width>520</width>
-					<height>40</height>
+					<height>80</height>
 					<texture border="5">button-nofocus.png</texture>
 				</control>
 				<control type="label">
 					<left>10</left>
 					<top>0</top>
 					<width>500</width>
-					<height>40</height>
+					<height>80</height>
 					<font>font13</font>
 					<align>left</align>
 					<aligny>center</aligny>
@@ -65,7 +65,7 @@
 					<left>0</left>
 					<top>0</top>
 					<width>520</width>
-					<height>40</height>
+					<height>80</height>
 					<visible>!Control.HasFocus(10)</visible>
 					<texture border="5">button-nofocus.png</texture>
 				</control>
@@ -73,7 +73,7 @@
 					<left>0</left>
 					<top>0</top>
 					<width>520</width>
-					<height>40</height>
+					<height>80</height>
 					<visible>Control.hasfocus(14) | Control.HasFocus(10)</visible>
 					<texture border="5">button-focus2.png</texture>
 				</control>
@@ -81,7 +81,7 @@
 					<left>10</left>
 					<top>0</top>
 					<width>500</width>
-					<height>40</height>
+					<height>80</height>
 					<font>font13</font>
 					<align>left</align>
 					<aligny>center</aligny>
@@ -113,7 +113,7 @@
 				<left>0</left>
 				<top>0</top>
 				<width>200</width>
-				<height>40</height>
+				<height>80</height>
 				<font>font12_title</font>
 				<align>center</align>
 				<aligny>center</aligny>
@@ -127,7 +127,7 @@
 				<left>0</left>
 				<top>45</top>
 				<width>200</width>
-				<height>40</height>
+				<height>80</height>
 				<font>font12_title</font>
 				<label>15019</label>
 				<align>center</align>
@@ -142,7 +142,7 @@
 				<left>0</left>
 				<top>90</top>
 				<width>200</width>
-				<height>40</height>
+				<height>80</height>
 				<font>font12_title</font>
 				<label>1210</label>
 				<align>center</align>
@@ -159,7 +159,7 @@
 				<left>200</left>
 				<top>355</top>
 				<width>200</width>
-				<height>40</height>
+				<height>80</height>
 				<align>center</align>
 				<aligny>center</aligny>
 				<label>186</label>
@@ -174,7 +174,7 @@
 				<left>410</left>
 				<top>355</top>
 				<width>200</width>
-				<height>40</height>
+				<height>80</height>
 				<align>center</align>
 				<aligny>center</aligny>
 				<label>222</label>

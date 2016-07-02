@@ -31,7 +31,7 @@
 				<left>40</left>
 				<top>16</top>
 				<width>720</width>
-				<height>40</height>
+				<height>80</height>
 				<texture>dialogheader.png</texture>
 			</control>
 			<control type="label">
@@ -96,14 +96,14 @@
 						<left>0</left>
 						<top>0</top>
 						<width>720</width>
-						<height>40</height>
+						<height>80</height>
 						<texture border="5">button-nofocus.png</texture>
 					</control>
 					<control type="label">
 						<left>10</left>
 						<top>0</top>
 						<width>500</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<aligny>center</aligny>
 						<textcolor>white</textcolor>
@@ -116,7 +116,7 @@
 						<left>60</left>
 						<top>0</top>
 						<width>650</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<aligny>center</aligny>
 						<textcolor>grey2</textcolor>
@@ -131,7 +131,7 @@
 						<left>0</left>
 						<top>0</top>
 						<width>720</width>
-						<height>40</height>
+						<height>80</height>
 						<visible>!Control.HasFocus(5)</visible>
 						<texture border="5">button-nofocus.png</texture>
 					</control>
@@ -139,7 +139,7 @@
 						<left>0</left>
 						<top>0</top>
 						<width>720</width>
-						<height>40</height>
+						<height>80</height>
 						<texture border="5">button-focus2.png</texture>
 						<visible>Control.HasFocus(5)</visible>
 					</control>
@@ -147,7 +147,7 @@
 						<left>10</left>
 						<top>0</top>
 						<width>500</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<aligny>center</aligny>
 						<textcolor>white</textcolor>
@@ -160,7 +160,7 @@
 						<left>60</left>
 						<top>0</top>
 						<width>650</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<aligny>center</aligny>
 						<textcolor>grey2</textcolor>

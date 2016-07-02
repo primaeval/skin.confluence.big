@@ -310,13 +310,13 @@
 			<control type="group">
 				<description>Header</description>
 				<width>256</width>
-				<height>40</height>
+				<height>80</height>
 				<control type="image">
 					<description>Header</description>
 					<left>0</left>
 					<top>0</top>
 					<width>256</width>
-					<height>40</height>
+					<height>80</height>
 					<texture border="20,18,20,0">SubMenuBack-Header.png</texture>
 				</control>
 				<control type="label">
@@ -333,7 +333,7 @@
 			</control>
 			<control type="togglebutton" id="401">
 				<description>Download with Subtitles script</description>
-				<height>40</height>
+				<height>80</height>
 				<width>256</width>
 				<font>font13</font>
 				<label>33003</label>
@@ -350,7 +350,7 @@
 				<enable>!VideoPlayer.Content(LiveTV)</enable>
 			</control>
 			<control type="button" id="402">
-				<height>40</height>
+				<height>80</height>
 				<width>256</width>
 				<aligny>center</aligny>
 				<font>font13</font>
@@ -363,7 +363,7 @@
 				<visible>VideoPlayer.HasSubtitles + VideoPlayer.SubtitlesEnabled</visible>
 			</control>
 			<control type="button" id="403">
-				<height>40</height>
+				<height>80</height>
 				<width>256</width>
 				<aligny>center</aligny>
 				<font>font13</font>
@@ -376,7 +376,7 @@
 				<visible>VideoPlayer.HasSubtitles + VideoPlayer.SubtitlesEnabled</visible>
 			</control>
 			<control type="radiobutton" id="404">
-				<height>40</height>
+				<height>80</height>
 				<width>256</width>
 				<textoffsetx>30</textoffsetx>
 				<aligny>center</aligny>
@@ -430,13 +430,13 @@
 			<control type="group">
 				<description>Header</description>
 				<width>256</width>
-				<height>40</height>
+				<height>80</height>
 				<control type="image">
 					<description>Header</description>
 					<left>0</left>
 					<top>0</top>
 					<width>256</width>
-					<height>40</height>
+					<height>80</height>
 					<texture border="20,18,20,0">SubMenuBack-Header.png</texture>
 				</control>
 				<control type="label">
@@ -452,7 +452,7 @@
 				</control>
 			</control>
 			<control type="radiobutton" id="503">
-				<height>40</height>
+				<height>80</height>
 				<width>256</width>
 				<textoffsetx>30</textoffsetx>
 				<aligny>center</aligny>
@@ -466,7 +466,7 @@
 				<pulseonselect>false</pulseonselect>
 			</control>
 			<control type="button" id="502">
-				<height>40</height>
+				<height>80</height>
 				<width>256</width>
 				<aligny>center</aligny>
 				<font>font13</font>
@@ -478,7 +478,7 @@
 				<onclick>StereoMode</onclick>
 			</control>
 			<control type="radiobutton" id="501">
-				<height>40</height>
+				<height>80</height>
 				<width>256</width>
 				<textoffsetx>30</textoffsetx>
 				<aligny>center</aligny>

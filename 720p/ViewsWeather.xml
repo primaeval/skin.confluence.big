@@ -489,7 +489,7 @@
 						<left>120</left>
 						<top>40</top>
 						<width>100</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13_title</font>
 						<textcolor>white</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -554,7 +554,7 @@
 						<left>120</left>
 						<top>40</top>
 						<width>100</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13_title</font>
 						<textcolor>white</textcolor>
 						<selectedcolor>selected</selectedcolor>
@@ -619,7 +619,7 @@
 						<left>120</left>
 						<top>40</top>
 						<width>100</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13_title</font>
 						<textcolor>white</textcolor>
 						<selectedcolor>selected</selectedcolor>

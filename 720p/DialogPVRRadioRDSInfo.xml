@@ -30,7 +30,7 @@
 			<left>40</left>
 			<top>16</top>
 			<width>880</width>
-			<height>40</height>
+			<height>80</height>
 			<texture>dialogheader.png</texture>
 		</control>
 		<control type="label">
@@ -931,7 +931,7 @@
 			<left>40</left>
 			<top>620</top>
 			<width>790</width>
-			<height>40</height>
+			<height>80</height>
 			<itemgap>5</itemgap>
 			<align>center</align>
 			<orientation>horizontal</orientation>

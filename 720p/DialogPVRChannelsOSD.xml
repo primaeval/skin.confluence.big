@@ -46,7 +46,7 @@
 				<left>40</left>
 				<top>16</top>
 				<width>430</width>
-				<height>40</height>
+				<height>80</height>
 				<font>font12_title</font>
 				<label>$LOCALIZE[19023] - $INFO[VideoPlayer.ChannelGroup]</label>
 				<align>center</align>
@@ -60,7 +60,7 @@
 				<left>40</left>
 				<top>16</top>
 				<width>430</width>
-				<height>40</height>
+				<height>80</height>
 				<font>font12_title</font>
 				<label>$LOCALIZE[19024] - $INFO[MusicPlayer.ChannelGroup]</label>
 				<align>center</align>
@@ -199,7 +199,7 @@
 						<left>360</left>
 						<top>4</top>
 						<width>40</width>
-						<height>40</height>
+						<height>80</height>
 						<texture>$INFO[ListItem.Icon]</texture>
 						<aspectratio>keep</aspectratio>
 					</control>
@@ -319,7 +319,7 @@
 						<left>360</left>
 						<top>4</top>
 						<width>40</width>
-						<height>40</height>
+						<height>80</height>
 						<texture>$INFO[ListItem.Icon]</texture>
 						<aspectratio>keep</aspectratio>
 					</control>

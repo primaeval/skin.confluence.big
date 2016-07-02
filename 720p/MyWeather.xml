@@ -134,7 +134,7 @@
 							<left>15</left>
 							<top>185</top>
 							<width>180</width>
-							<height>40</height>
+							<height>80</height>
 							<font>WeatherTemp</font>
 							<align>right</align>
 							<aligny>top</aligny>
@@ -147,7 +147,7 @@
 							<left>200</left>
 							<top>206</top>
 							<width>100</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font16</font>
 							<align>left</align>
 							<aligny>top</aligny>
@@ -465,7 +465,7 @@
 				</control>
 				<control type="group" id="300">
 					<width>250</width>
-					<height>40</height>
+					<height>80</height>
 					<control type="spincontrolex" id="3">
 						<description>change location button</description>
 						<left>0</left>
@@ -482,7 +482,7 @@
 						<left>10</left>
 						<top>0</top>
 						<width>200</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<label>31027</label>
 						<textcolor>white</textcolor>

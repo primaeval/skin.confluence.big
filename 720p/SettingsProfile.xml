@@ -230,7 +230,7 @@
 					<control type="radiobutton" id="4">
 						<description>enable login screen</description>
 						<width>750</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<label>20096</label>
 						<textcolor>grey2</textcolor>
@@ -241,7 +241,7 @@
 					<control type="button" id="5">
 						<description>auto login</description>
 						<width>750</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<label>33084</label>
 						<label2>$INFO[System.ProfileAutoLogin]</label2>
@@ -257,7 +257,7 @@
 					<left>290</left>
 					<top>500</top>
 					<width>750</width>
-					<height>40</height>
+					<height>80</height>
 					<control type="image">
 						<description>separator image</description>
 						<left>0</left>

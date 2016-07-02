@@ -21,7 +21,7 @@
 			<left>45</left>
 			<top>70</top>
 			<width>710</width>
-			<height>40</height>
+			<height>80</height>
 			<itemgap>5</itemgap>
 			<align>center</align>
 			<orientation>horizontal</orientation>
@@ -84,7 +84,7 @@
 				<left>0</left>
 				<top>0</top>
 				<width>200</width>
-				<height>40</height>
+				<height>80</height>
 				<align>center</align>
 				<aligny>center</aligny>
 				<font>font12_title</font>
@@ -99,7 +99,7 @@
 				<left>210</left>
 				<top>0</top>
 				<width>200</width>
-				<height>40</height>
+				<height>80</height>
 				<align>center</align>
 				<aligny>center</aligny>
 				<font>font12_title</font>
@@ -114,7 +114,7 @@
 				<left>420</left>
 				<top>0</top>
 				<width>200</width>
-				<height>40</height>
+				<height>80</height>
 				<align>center</align>
 				<aligny>center</aligny>
 				<font>font12_title</font>
@@ -127,7 +127,7 @@
 		</control>
 		<control type="button" id="13">
 			<description>Default Category Button</description>
-			<height>40</height>
+			<height>80</height>
 			<width>173</width>
 			<align>center</align>
 			<aligny>center</aligny>
@@ -137,7 +137,7 @@
 		</control>
 		<control type="button" id="3">
 			<description>Default Button</description>
-			<height>40</height>
+			<height>80</height>
 			<font>font13</font>
 			<textcolor>grey2</textcolor>
 			<focusedcolor>white</focusedcolor>
@@ -145,7 +145,7 @@
 		</control>
 		<control type="radiobutton" id="4">
 			<description>Default RadioButton</description>
-			<height>40</height>
+			<height>80</height>
 			<font>font13</font>
 			<textcolor>grey2</textcolor>
 			<focusedcolor>white</focusedcolor>
@@ -153,7 +153,7 @@
 		</control>
 		<control type="spincontrolex" id="5">
 			<description>Default spincontrolex</description>
-			<height>40</height>
+			<height>80</height>
 			<textcolor>grey2</textcolor>
 			<focusedcolor>white</focusedcolor>
 			<texturenofocus border="5">button-nofocus.png</texturenofocus>
@@ -178,7 +178,7 @@
 		</control>
 		<control type="sliderex" id="8">
 			<description>Default Slider</description>
-			<height>40</height>
+			<height>80</height>
 			<font>font13</font>
 			<textcolor>grey2</textcolor>
 			<focusedcolor>white</focusedcolor>

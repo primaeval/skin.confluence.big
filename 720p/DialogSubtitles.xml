@@ -89,7 +89,7 @@
 					<left>0</left>
 					<top>80</top>
 					<width>250</width>
-					<height>40</height>
+					<height>80</height>
 					<aspectratio>keep</aspectratio>
 				</control>
 				<control type="label" id="140">
@@ -97,7 +97,7 @@
 					<left>50</left>
 					<top>140</top>
 					<width>780</width>
-					<height>40</height>
+					<height>80</height>
 					<font>font13</font>
 					<textcolor>white</textcolor>
 					<align>center</align>
@@ -417,7 +417,7 @@
 					<left>925</left>
 					<top>640</top>
 					<width>200</width>
-					<height>40</height>
+					<height>80</height>
 					<onleft>120</onleft>
 					<onright>120</onright>
 					<onup>150</onup>

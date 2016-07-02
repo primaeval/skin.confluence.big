@@ -450,7 +450,7 @@
 				<left>10</left>
 				<top>120</top>
 				<width>30</width>
-				<height>40</height>
+				<height>80</height>
 				<texture>arrow-big-left.png</texture>
 				<visible>Container(2000).HasPrevious</visible>
 				<include>VisibleFadeEffect</include>
@@ -460,7 +460,7 @@
 				<left>10</left>
 				<top>170r</top>
 				<width>30</width>
-				<height>40</height>
+				<height>80</height>
 				<texture>arrow-big-left.png</texture>
 				<visible>Container(2000).HasPrevious</visible>
 				<include>VisibleFadeEffect</include>
@@ -470,7 +470,7 @@
 				<left>1240</left>
 				<top>120</top>
 				<width>30</width>
-				<height>40</height>
+				<height>80</height>
 				<texture>arrow-big-right.png</texture>
 				<visible>Container(2000).HasNext</visible>
 				<include>VisibleFadeEffect</include>
@@ -480,7 +480,7 @@
 				<left>1240</left>
 				<top>170r</top>
 				<width>30</width>
-				<height>40</height>
+				<height>80</height>
 				<texture>arrow-big-right.png</texture>
 				<visible>Container(2000).HasNext</visible>
 				<include>VisibleFadeEffect</include>

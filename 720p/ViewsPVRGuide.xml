@@ -390,19 +390,19 @@
 					<onright>76</onright>
 					<pagecontrol>76</pagecontrol>
 					<scrolltime>200</scrolltime>
-					<itemlayout height="40">
+					<itemlayout height="80">
 						<control type="image">
 							<left>0</left>
 							<top>0</top>
 							<width>1100</width>
-							<height>41</height>
+							<height>82</height>
 							<texture border="5">MenuItemNF.png</texture>
 						</control>
 						<control type="image">
 							<left>100</left>
 							<top>0</top>
 							<width>250</width>
-							<height>40</height>
+							<height>80</height>
 							<colordiffuse>33FFFFFF</colordiffuse>
 							<texture border="5">StackFO.png</texture>
 						</control>
@@ -410,7 +410,7 @@
 							<left>960</left>
 							<top>0</top>
 							<width>140</width>
-							<height>40</height>
+							<height>80</height>
 							<colordiffuse>33FFFFFF</colordiffuse>
 							<texture border="5">StackFO.png</texture>
 						</control>
@@ -418,7 +418,7 @@
 							<left>0</left>
 							<top>0</top>
 							<width>100</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font12</font>
 							<align>center</align>
 							<aligny>center</aligny>
@@ -470,7 +470,7 @@
 							<left>1005</left>
 							<top>0</top>
 							<width>80</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font10</font>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -491,7 +491,7 @@
 							<left>1000</left>
 							<top>0</top>
 							<width>80</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font10</font>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -521,7 +521,7 @@
 							<left>100</left>
 							<top>0</top>
 							<width>250</width>
-							<height>40</height>
+							<height>80</height>
 							<colordiffuse>AAFFFFFF</colordiffuse>
 							<texture border="5">StackFO.png</texture>
 							<visible>!Control.HasFocus(11)</visible>
@@ -530,7 +530,7 @@
 							<left>960</left>
 							<top>0</top>
 							<width>140</width>
-							<height>40</height>
+							<height>80</height>
 							<colordiffuse>AAFFFFFF</colordiffuse>
 							<texture border="5">StackFO.png</texture>
 							<visible>!Control.HasFocus(11)</visible>
@@ -539,7 +539,7 @@
 							<left>100</left>
 							<top>0</top>
 							<width>250</width>
-							<height>40</height>
+							<height>80</height>
 							<colordiffuse>88FFFFFF</colordiffuse>
 							<texture border="5">StackFO.png</texture>
 							<visible>Control.HasFocus(11)</visible>
@@ -548,7 +548,7 @@
 							<left>960</left>
 							<top>0</top>
 							<width>140</width>
-							<height>40</height>
+							<height>80</height>
 							<colordiffuse>88FFFFFF</colordiffuse>
 							<texture border="5">StackFO.png</texture>
 							<visible>Control.HasFocus(11)</visible>
@@ -557,7 +557,7 @@
 							<left>0</left>
 							<top>0</top>
 							<width>100</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font12</font>
 							<align>center</align>
 							<aligny>center</aligny>
@@ -622,7 +622,7 @@
 							<left>1005</left>
 							<top>0</top>
 							<width>80</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font10</font>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -643,7 +643,7 @@
 							<left>1000</left>
 							<top>0</top>
 							<width>80</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font10</font>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -769,19 +769,19 @@
 					<onright>76</onright>
 					<pagecontrol>76</pagecontrol>
 					<scrolltime>200</scrolltime>
-					<itemlayout height="40">
+					<itemlayout height="80">
 						<control type="image">
 							<left>0</left>
 							<top>0</top>
 							<width>1100</width>
-							<height>41</height>
+							<height>82</height>
 							<texture border="5">MenuItemNF.png</texture>
 						</control>
 						<control type="image">
 							<left>100</left>
 							<top>0</top>
 							<width>250</width>
-							<height>40</height>
+							<height>80</height>
 							<colordiffuse>33FFFFFF</colordiffuse>
 							<texture border="5">StackFO.png</texture>
 						</control>
@@ -789,7 +789,7 @@
 							<left>960</left>
 							<top>0</top>
 							<width>140</width>
-							<height>40</height>
+							<height>80</height>
 							<colordiffuse>33FFFFFF</colordiffuse>
 							<texture border="5">StackFO.png</texture>
 						</control>
@@ -797,7 +797,7 @@
 							<left>0</left>
 							<top>0</top>
 							<width>100</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font12</font>
 							<align>center</align>
 							<aligny>center</aligny>
@@ -849,7 +849,7 @@
 							<left>1005</left>
 							<top>0</top>
 							<width>80</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font10</font>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -870,7 +870,7 @@
 							<left>1000</left>
 							<top>0</top>
 							<width>80</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font10</font>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -900,7 +900,7 @@
 							<left>100</left>
 							<top>0</top>
 							<width>250</width>
-							<height>40</height>
+							<height>80</height>
 							<colordiffuse>AAFFFFFF</colordiffuse>
 							<texture border="5">StackFO.png</texture>
 							<visible>!Control.HasFocus(12)</visible>
@@ -909,7 +909,7 @@
 							<left>960</left>
 							<top>0</top>
 							<width>140</width>
-							<height>40</height>
+							<height>80</height>
 							<colordiffuse>AAFFFFFF</colordiffuse>
 							<texture border="5">StackFO.png</texture>
 							<visible>!Control.HasFocus(12)</visible>
@@ -918,7 +918,7 @@
 							<left>100</left>
 							<top>0</top>
 							<width>250</width>
-							<height>40</height>
+							<height>80</height>
 							<colordiffuse>88FFFFFF</colordiffuse>
 							<texture border="5">StackFO.png</texture>
 							<visible>Control.HasFocus(12)</visible>
@@ -927,7 +927,7 @@
 							<left>960</left>
 							<top>0</top>
 							<width>140</width>
-							<height>40</height>
+							<height>80</height>
 							<colordiffuse>88FFFFFF</colordiffuse>
 							<texture border="5">StackFO.png</texture>
 							<visible>Control.HasFocus(12)</visible>
@@ -936,7 +936,7 @@
 							<left>0</left>
 							<top>0</top>
 							<width>100</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font12</font>
 							<align>center</align>
 							<aligny>center</aligny>
@@ -1001,7 +1001,7 @@
 							<left>1005</left>
 							<top>0</top>
 							<width>80</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font10</font>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -1022,7 +1022,7 @@
 							<left>1000</left>
 							<top>0</top>
 							<width>80</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font10</font>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -1135,19 +1135,19 @@
 					<onright>75</onright>
 					<pagecontrol>75</pagecontrol>
 					<scrolltime>200</scrolltime>
-					<itemlayout height="40">
+					<itemlayout height="80">
 						<control type="image">
 							<left>0</left>
 							<top>0</top>
 							<width>1100</width>
-							<height>41</height>
+							<height>82</height>
 							<texture border="5">MenuItemNF.png</texture>
 						</control>
 						<control type="image">
 							<left>0</left>
 							<top>0</top>
 							<width>300</width>
-							<height>40</height>
+							<height>80</height>
 							<colordiffuse>33FFFFFF</colordiffuse>
 							<texture border="5">StackFO.png</texture>
 						</control>
@@ -1155,7 +1155,7 @@
 							<left>960</left>
 							<top>0</top>
 							<width>140</width>
-							<height>40</height>
+							<height>80</height>
 							<colordiffuse>33FFFFFF</colordiffuse>
 							<texture border="5">StackFO.png</texture>
 						</control>
@@ -1163,7 +1163,7 @@
 							<left>10</left>
 							<top>0</top>
 							<width>280</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font12</font>
 							<align>center</align>
 							<aligny>center</aligny>
@@ -1175,7 +1175,7 @@
 							<left>310</left>
 							<top>0</top>
 							<width>640</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font13</font>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -1195,7 +1195,7 @@
 							<left>1005</left>
 							<top>0</top>
 							<width>80</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font10</font>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -1216,7 +1216,7 @@
 							<left>1000</left>
 							<top>0</top>
 							<width>80</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font10</font>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -1246,7 +1246,7 @@
 							<left>0</left>
 							<top>0</top>
 							<width>300</width>
-							<height>40</height>
+							<height>80</height>
 							<colordiffuse>AAFFFFFF</colordiffuse>
 							<texture border="5">StackFO.png</texture>
 							<visible>!Control.HasFocus(13)</visible>
@@ -1255,7 +1255,7 @@
 							<left>960</left>
 							<top>0</top>
 							<width>140</width>
-							<height>40</height>
+							<height>80</height>
 							<colordiffuse>AAFFFFFF</colordiffuse>
 							<texture border="5">StackFO.png</texture>
 							<visible>!Control.HasFocus(13)</visible>
@@ -1264,7 +1264,7 @@
 							<left>0</left>
 							<top>0</top>
 							<width>300</width>
-							<height>40</height>
+							<height>80</height>
 							<colordiffuse>88FFFFFF</colordiffuse>
 							<texture border="5">StackFO.png</texture>
 							<visible>Control.HasFocus(13)</visible>
@@ -1273,7 +1273,7 @@
 							<left>960</left>
 							<top>0</top>
 							<width>140</width>
-							<height>40</height>
+							<height>80</height>
 							<colordiffuse>88FFFFFF</colordiffuse>
 							<texture border="5">StackFO.png</texture>
 							<visible>Control.HasFocus(13)</visible>
@@ -1282,7 +1282,7 @@
 							<left>10</left>
 							<top>0</top>
 							<width>280</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font12</font>
 							<align>center</align>
 							<aligny>center</aligny>
@@ -1294,7 +1294,7 @@
 							<left>310</left>
 							<top>0</top>
 							<width>640</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font13</font>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -1327,7 +1327,7 @@
 							<left>1005</left>
 							<top>0</top>
 							<width>80</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font10</font>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -1348,7 +1348,7 @@
 							<left>1000</left>
 							<top>0</top>
 							<width>80</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font10</font>
 							<align>left</align>
 							<aligny>center</aligny>

@@ -21,7 +21,7 @@
 			<left>0</left>
 			<top>0</top>
 			<width>1200</width>
-			<height>40</height>
+			<height>80</height>
 			<control type="button">
 				<description>dialog close button</description>
 				<left>1120</left>
@@ -41,7 +41,7 @@
 				<centerleft>600</centerleft>
 				<top>16</top>
 				<width>1140</width>
-				<height>40</height>
+				<height>80</height>
 				<texture>dialogheader.png</texture>
 			</control>
 			<control type="label">
@@ -63,26 +63,26 @@
 			<left>30</left>
 			<top>70</top>
 			<width>1140</width>
-			<height>40</height>
+			<height>80</height>
 			<onup>9001</onup>
 			<ondown>200</ondown>
 			<onleft>9000</onleft>
 			<onright>9000</onright>
 			<orientation>horizontal</orientation>
 			<scrolltime tween="sine" easing="out">200</scrolltime>
-			<itemlayout width="228" height="40">
+			<itemlayout width="228" height="80">
 				<control type="image">
 					<left>0</left>
 					<top>0</top>
 					<width>228</width>
-					<height>40</height>
+					<height>80</height>
 					<texture border="5">button-nofocus.png</texture>
 				</control>
 				<control type="label">
 					<posx>5</posx>
 					<posy>0</posy>
 					<width>218</width>
-					<height>40</height>
+					<height>80</height>
 					<textcolor>grey3</textcolor>
 					<font>font13_title</font>
 					<aligny>center</aligny>
@@ -92,12 +92,12 @@
 					<scrollspeed>0</scrollspeed>
 				</control>
 			</itemlayout>
-			<focusedlayout width="228" height="40">
+			<focusedlayout width="228" height="80">
 				<control type="image">
 					<left>0</left>
 					<top>0</top>
 					<width>228</width>
-					<height>40</height>
+					<height>80</height>
 					<texture border="5">button-focus2.png</texture>
 					<animation effect="fade" start="100" end="50" time="0" condition="!Control.HasFocus(9000)">conditional</animation>
 				</control>
@@ -105,7 +105,7 @@
 					<posx>5</posx>
 					<posy>0</posy>
 					<width>218</width>
-					<height>40</height>
+					<height>80</height>
 					<textcolor>white</textcolor>
 					<font>font13_title</font>
 					<aligny>center</aligny>
@@ -250,7 +250,7 @@
 							<left>0</left>
 							<top>3</top>
 							<width>528</width>
-							<height>40</height>
+							<height>80</height>
 							<texture border="5">button-nofocus.png</texture>
 						</control>
 						<control type="image">
@@ -276,7 +276,7 @@
 							<left>80</left>
 							<top>3</top>
 							<width>435</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font12</font>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -318,7 +318,7 @@
 							<left>80</left>
 							<top>3</top>
 							<width>435</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font12</font>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -420,7 +420,7 @@
 							<left>0</left>
 							<top>3</top>
 							<width>528</width>
-							<height>40</height>
+							<height>80</height>
 							<texture border="5">button-nofocus.png</texture>
 						</control>
 						<control type="image">
@@ -446,7 +446,7 @@
 							<left>80</left>
 							<top>3</top>
 							<width>435</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font12</font>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -488,7 +488,7 @@
 							<left>80</left>
 							<top>3</top>
 							<width>435</width>
-							<height>40</height>
+							<height>80</height>
 							<font>font12</font>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -541,7 +541,7 @@
 				<description>Default RadioButton</description>
 				<left>0</left>
 				<top>15</top>
-				<height>40</height>
+				<height>80</height>
 				<width>280</width>
 				<onup>200</onup>
 				<ondown>9000</ondown>
@@ -560,7 +560,7 @@
 				<description>Apply changes button</description>
 				<left>288</left>
 				<top>15</top>
-				<height>40</height>
+				<height>80</height>
 				<width>250</width>
 				<onup>200</onup>
 				<ondown>9000</ondown>
@@ -578,7 +578,7 @@
 				<description>Clear active modes button</description>
 				<left>841</left>
 				<top>15</top>
-				<height>40</height>
+				<height>80</height>
 				<width>250</width>
 				<onup>200</onup>
 				<ondown>9000</ondown>

@@ -38,7 +38,7 @@
 				<left>40</left>
 				<top>16</top>
 				<width>400</width>
-				<height>40</height>
+				<height>80</height>
 				<texture>dialogheader.png</texture>
 			</control>
 			<control type="label">
@@ -46,7 +46,7 @@
 				<left>40</left>
 				<top>16</top>
 				<width>430</width>
-				<height>40</height>
+				<height>80</height>
 				<font>font12_title</font>
 				<label>$LOCALIZE[19222] - $INFO[VideoPlayer.ChannelName]</label>
 				<align>center</align>

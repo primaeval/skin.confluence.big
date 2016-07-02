@@ -233,7 +233,7 @@
 					<left>0</left>
 					<top>0</top>
 					<width>200</width>
-					<height>40</height>
+					<height>80</height>
 					<label>10523</label>
 					<font>font12_title</font>
 					<align>center</align>
@@ -245,7 +245,7 @@
 					<left>210</left>
 					<top>0</top>
 					<width>200</width>
-					<height>40</height>
+					<height>80</height>
 					<label>13405</label>
 					<font>font12_title</font>
 					<align>center</align>
@@ -257,7 +257,7 @@
 					<left>420</left>
 					<top>0</top>
 					<width>200</width>
-					<height>40</height>
+					<height>80</height>
 					<label>38023</label>
 					<font>font12_title</font>
 					<align>center</align>

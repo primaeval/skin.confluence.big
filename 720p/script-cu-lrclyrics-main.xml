@@ -22,7 +22,7 @@
 				<left>40</left>
 				<top>16</top>
 				<width>600</width>
-				<height>40</height>
+				<height>80</height>
 				<texture>dialogheader.png</texture>
 			</control>
 			<control type="button">
@@ -158,19 +158,19 @@
 				<ondown>120</ondown>
 				<pagecontrol>121</pagecontrol>
 				<scrolltime>200</scrolltime>
-				<itemlayout height="40">
+				<itemlayout height="80">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>620</width>
-						<height>41</height>
+						<height>82</height>
 						<texture border="5">MenuItemNF.png</texture>
 					</control>
 					<control type="label">
 						<left>10</left>
 						<top>0</top>
 						<width>600</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<align>left</align>
 						<aligny>center</aligny>
@@ -178,12 +178,12 @@
 						<label>$INFO[ListItem.Label]</label>
 					</control>
 				</itemlayout>
-				<focusedlayout height="40">
+				<focusedlayout height="80">
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
 						<width>620</width>
-						<height>41</height>
+						<height>82</height>
 						<visible>!Control.HasFocus(120)</visible>
 						<texture border="5">MenuItemNF.png</texture>
 					</control>
@@ -191,7 +191,7 @@
 						<left>0</left>
 						<top>0</top>
 						<width>620</width>
-						<height>41</height>
+						<height>82</height>
 						<visible>Control.HasFocus(120)</visible>
 						<texture border="5">MenuItemFO.png</texture>
 					</control>
@@ -199,7 +199,7 @@
 						<left>10</left>
 						<top>0</top>
 						<width>600</width>
-						<height>40</height>
+						<height>80</height>
 						<font>font13</font>
 						<align>left</align>
 						<aligny>center</aligny>

@@ -5,7 +5,7 @@
 	<visible>Player.HasMedia + Window.IsActive(PlayerControls) + !Window.IsActive(FullscreenVideo) + !Window.IsActive(Visualisation)</visible>
 	<coordinates>
 		<left>390</left>
-		<top>250</top>
+		<top>500</top>
 	</coordinates>
 	<controls>
 		<control type="image">
@@ -24,7 +24,7 @@
 				<left>0</left>
 				<top>0</top>
 				<width>40</width>
-				<height>40</height>
+				<height>80</height>
 				<label>-</label>
 				<texturefocus>OSDPrevTrackFO.png</texturefocus>
 				<texturenofocus>OSDPrevTrackNF.png</texturenofocus>
@@ -39,7 +39,7 @@
 				<left>40</left>
 				<top>0</top>
 				<width>40</width>
-				<height>40</height>
+				<height>80</height>
 				<label>-</label>
 				<texturefocus>OSDRewindFO.png</texturefocus>
 				<texturenofocus>OSDRewindNF.png</texturenofocus>
@@ -54,7 +54,7 @@
 				<left>80</left>
 				<top>0</top>
 				<width>40</width>
-				<height>40</height>
+				<height>80</height>
 				<label>-</label>
 				<texturefocus>OSDPauseFO.png</texturefocus>
 				<texturenofocus>OSDPauseNF.png</texturenofocus>
@@ -72,7 +72,7 @@
 				<left>120</left>
 				<top>0</top>
 				<width>40</width>
-				<height>40</height>
+				<height>80</height>
 				<label>-</label>
 				<texturefocus>OSDStopFO.png</texturefocus>
 				<texturenofocus>OSDStopNF.png</texturenofocus>
@@ -88,7 +88,7 @@
 				<left>160</left>
 				<top>0</top>
 				<width>40</width>
-				<height>40</height>
+				<height>80</height>
 				<label>-</label>
 				<texturefocus>OSDForwardFO.png</texturefocus>
 				<texturenofocus>OSDForwardNF.png</texturenofocus>
@@ -103,7 +103,7 @@
 				<left>200</left>
 				<top>0</top>
 				<width>40</width>
-				<height>40</height>
+				<height>80</height>
 				<label>-</label>
 				<texturefocus>OSDNextTrackFO.png</texturefocus>
 				<texturenofocus>OSDNextTrackNF.png</texturenofocus>
@@ -118,7 +118,7 @@
 				<left>240</left>
 				<top>0</top>
 				<width>40</width>
-				<height>40</height>
+				<height>80</height>
 				<label>-</label>
 				<texturefocus>OSDRecordOffFO.png</texturefocus>
 				<texturenofocus>OSDRecordOffNF.png</texturenofocus>
@@ -137,7 +137,7 @@
 					<left>325</left>
 					<top>0</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<label>-</label>
 					<texturefocus>-</texturefocus>
 					<texturenofocus>-</texturenofocus>
@@ -152,7 +152,7 @@
 					<left>325</left>
 					<top>0</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<texture>OSDRepeatNF.png</texture>
 					<visible>!Playlist.IsRepeat + !Playlist.IsRepeatOne</visible>
 					<visible>!Control.HasFocus(607)</visible>
@@ -162,7 +162,7 @@
 					<left>325</left>
 					<top>0</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<texture>OSDRepeatFO.png</texture>
 					<visible>!Playlist.IsRepeat + !Playlist.IsRepeatOne</visible>
 					<visible>Control.HasFocus(607)</visible>
@@ -172,7 +172,7 @@
 					<left>325</left>
 					<top>0</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<texture>OSDRepeatOneNF.png</texture>
 					<visible>Playlist.IsRepeatOne</visible>
 					<visible>!Control.HasFocus(607)</visible>
@@ -182,7 +182,7 @@
 					<left>325</left>
 					<top>0</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<texture>OSDRepeatOneFO.png</texture>
 					<visible>Playlist.IsRepeatOne</visible>
 					<visible>Control.HasFocus(607)</visible>
@@ -192,7 +192,7 @@
 					<left>325</left>
 					<top>0</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<texture>OSDRepeatAllNF.png</texture>
 					<visible>Playlist.IsRepeat</visible>
 					<visible>!Control.HasFocus(607)</visible>
@@ -202,7 +202,7 @@
 					<left>325</left>
 					<top>0</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<texture>OSDRepeatAllFO.png</texture>
 					<visible>Playlist.IsRepeat</visible>
 					<visible>Control.HasFocus(607)</visible>
@@ -212,7 +212,7 @@
 					<left>365</left>
 					<top>0</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<label>-</label>
 					<texturefocus>OSDRandomOffFO.png</texturefocus>
 					<texturenofocus>OSDRandomOffNF.png</texturenofocus>
@@ -230,7 +230,7 @@
 					<left>405</left>
 					<top>0</top>
 					<width>40</width>
-					<height>40</height>
+					<height>80</height>
 					<label>31128</label>
 					<font>-</font>
 					<texturefocus>OSDLyricsFO.png</texturefocus>
@@ -262,7 +262,7 @@
 				<left>0</left>
 				<top>0</top>
 				<width>40</width>
-				<height>40</height>
+				<height>80</height>
 				<label>-</label>
 				<texturefocus>OSDRewindFO.png</texturefocus>
 				<texturenofocus>OSDRewindNF.png</texturenofocus>
@@ -279,7 +279,7 @@
 				<left>40</left>
 				<top>0</top>
 				<width>40</width>
-				<height>40</height>
+				<height>80</height>
 				<label>-</label>
 				<texturefocus>OSDStopFO.png</texturefocus>
 				<texturenofocus>OSDStopNF.png</texturenofocus>
@@ -295,7 +295,7 @@
 				<left>80</left>
 				<top>0</top>
 				<width>40</width>
-				<height>40</height>
+				<height>80</height>
 				<label>-</label>
 				<texturefocus>OSDPauseFO.png</texturefocus>
 				<texturenofocus>OSDPauseNF.png</texturenofocus>
@@ -316,7 +316,7 @@
 				<left>120</left>
 				<top>0</top>
 				<width>40</width>
-				<height>40</height>
+				<height>80</height>
 				<label>-</label>
 				<texturefocus>OSDForwardFO.png</texturefocus>
 				<texturenofocus>OSDForwardNF.png</texturenofocus>
@@ -333,7 +333,7 @@
 				<left>200</left>
 				<top>0</top>
 				<width>40</width>
-				<height>40</height>
+				<height>80</height>
 				<label>-</label>
 				<texturefocus>OSDChannelUPFO.png</texturefocus>
 				<texturenofocus>OSDChannelUPNF.png</texturenofocus>
@@ -348,7 +348,7 @@
 				<left>240</left>
 				<top>0</top>
 				<width>40</width>
-				<height>40</height>
+				<height>80</height>
 				<label>-</label>
 				<texturefocus>OSDChannelDownFO.png</texturefocus>
 				<texturenofocus>OSDChannelDownNF.png</texturenofocus>
@@ -363,7 +363,7 @@
 				<left>280</left>
 				<top>0</top>
 				<width>40</width>
-				<height>40</height>
+				<height>80</height>
 				<label>-</label>
 				<texturefocus>OSDRecordOffFO.png</texturefocus>
 				<texturenofocus>OSDRecordOffNF.png</texturenofocus>
@@ -380,7 +380,7 @@
 				<left>400</left>
 				<top>0</top>
 				<width>40</width>
-				<height>40</height>
+				<height>80</height>
 				<label>-</label>
 				<texturefocus>OSDRadioRDSFO.png</texturefocus>
 				<texturenofocus>OSDRadioRDSNF.png</texturenofocus>

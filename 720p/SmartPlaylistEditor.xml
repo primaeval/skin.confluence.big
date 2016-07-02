@@ -24,7 +24,7 @@
 				<left>30</left>
 				<top>70</top>
 				<width>740</width>
-				<height>40</height>
+				<height>80</height>
 				<label>467</label>
 				<font>font13</font>
 				<texturefocus border="5">button-focus2.png</texturefocus>
@@ -49,7 +49,7 @@
 				<left>30</left>
 				<top>145</top>
 				<width>740</width>
-				<height>40</height>
+				<height>80</height>
 				<textoffsetx>10</textoffsetx>
 				<textwidth>720</textwidth>
 				<font>font13</font>
@@ -87,14 +87,14 @@
 						<left>0</left>
 						<top>0</top>
 						<width>550</width>
-						<height>40</height>
+						<height>80</height>
 						<texture border="5">button-nofocus.png</texture>
 					</control>
 					<control type="label">
 						<left>10</left>
 						<top>0</top>
 						<width>530</width>
-						<height>40</height>
+						<height>80</height>
 						<aligny>center</aligny>
 						<info>ListItem.Label</info>
 						<selectedcolor>selected</selectedcolor>
@@ -106,7 +106,7 @@
 						<left>0</left>
 						<top>0</top>
 						<width>550</width>
-						<height>40</height>
+						<height>80</height>
 						<texture border="5">button-focus2.png</texture>
 						<visible>Control.HasFocus(10)</visible>
 					</control>
@@ -114,7 +114,7 @@
 						<left>0</left>
 						<top>0</top>
 						<width>550</width>
-						<height>40</height>
+						<height>80</height>
 						<texture border="5">button-nofocus.png</texture>
 						<visible>!Control.HasFocus(10)</visible>
 					</control>
@@ -122,7 +122,7 @@
 						<left>10</left>
 						<top>0</top>
 						<width>530</width>
-						<height>40</height>
+						<height>80</height>
 						<aligny>center</aligny>
 						<info>ListItem.Label</info>
 						<selectedcolor>selected</selectedcolor>
@@ -138,7 +138,7 @@
 					<left>0</left>
 					<top>0</top>
 					<width>180</width>
-					<height>40</height>
+					<height>80</height>
 					<label>15019</label>
 					<font>font12_title</font>
 					<align>center</align>
@@ -152,7 +152,7 @@
 					<description>Remove Rule Button</description>
 					<left>0</left>
 					<top>45</top>
-					<height>40</height>
+					<height>80</height>
 					<width>180</width>
 					<label>1210</label>
 					<font>font12_title</font>
@@ -167,7 +167,7 @@
 					<description>Edit Rule Button</description>
 					<left>0</left>
 					<top>90</top>
-					<height>40</height>
+					<height>80</height>
 					<width>180</width>
 					<label>21435</label>
 					<font>font12_title</font>
@@ -193,7 +193,7 @@
 				<left>30</left>
 				<top>395</top>
 				<width>740</width>
-				<height>40</height>
+				<height>80</height>
 				<label>21424</label>
 				<font>font13</font>
 				<texturefocus border="5">button-focus2.png</texturefocus>
@@ -207,7 +207,7 @@
 				<left>30</left>
 				<top>440</top>
 				<width>740</width>
-				<height>40</height>
+				<height>80</height>
 				<label>21427</label>
 				<font>font13</font>
 				<texturefocus border="5">button-focus2.png</texturefocus>
@@ -221,7 +221,7 @@
 				<left>30</left>
 				<top>485</top>
 				<width>550</width>
-				<height>40</height>
+				<height>80</height>
 				<label>21429</label>
 				<font>font13</font>
 				<texturefocus border="5">button-focus2.png</texturefocus>
@@ -235,7 +235,7 @@
 				<left>590</left>
 				<top>485</top>
 				<width>180</width>
-				<height>40</height>
+				<height>80</height>
 				<font>font12_title</font>
 				<align>center</align>
 				<aligny>center</aligny>
@@ -254,7 +254,7 @@
 				<left>30</left>
 				<top>530</top>
 				<width>550</width>
-				<height>40</height>
+				<height>80</height>
 				<label>21458</label>
 				<font>font13</font>
 				<texturefocus border="5">button-focus2.png</texturefocus>
@@ -268,7 +268,7 @@
 				<left>590</left>
 				<top>530</top>
 				<width>180</width>
-				<height>40</height>
+				<height>80</height>
 				<font>font12_title</font>
 				<align>center</align>
 				<aligny>center</aligny>
@@ -286,7 +286,7 @@
 					<left>195</left>
 					<top>605</top>
 					<width>200</width>
-					<height>40</height>
+					<height>80</height>
 					<align>center</align>
 					<aligny>center</aligny>
 					<label>186</label>
@@ -301,7 +301,7 @@
 					<left>405</left>
 					<top>605</top>
 					<width>200</width>
-					<height>40</height>
+					<height>80</height>
 					<align>center</align>
 					<aligny>center</aligny>
 					<label>222</label>
