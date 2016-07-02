@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="skin.confluence.big"
+  version="2.8.8"
+  name="Confluence Big"
+  provider-name="primaeval (from Jezz_X, Team Kodi)">
+  <requires>
+    <import addon="xbmc.gui" version="5.10.0"/>
+  </requires>
+  <extension
+    point="xbmc.gui.skin"
+    debugging="false"
+    effectslowdown="1.0">
+    <res width="1280" height="720" aspect="16:9" default="true" folder="720p" />
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Confluence Big skin by primaeval from Jezz_X.</summary>
+    <description lang="en_GB">Confluence for teeny tiny phone screens.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
