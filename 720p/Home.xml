@@ -1106,8 +1106,8 @@
 				<description>Power push button</description>
 				<left>55</left>
 				<top>0</top>
-				<width>45</width>
-				<height>45</height>
+				<width>70</width>
+				<height>70</height>
 				<label>31003</label>
 				<font>-</font>
 				<onclick>ActivateWindow(ShutdownMenu)</onclick>
@@ -1122,8 +1122,8 @@
 				<description>Power Icon</description>
 				<left>60</left>
 				<top>5</top>
-				<width>35</width>
-				<height>35</height>
+				<width>70</width>
+				<height>70</height>
 				<aspectratio>keep</aspectratio>
 				<texture>icon_power.png</texture>
 			</control>
@@ -1131,8 +1131,8 @@
 				<description>Favourites push button</description>
 				<left>0</left>
 				<top>0</top>
-				<width>45</width>
-				<height>45</height>
+				<width>70</width>
+				<height>70</height>
 				<label>1036</label>
 				<font>-</font>
 				<onclick>ActivateWindow(Favourites)</onclick>
@@ -1147,8 +1147,8 @@
 				<description>Favourites Icon</description>
 				<left>5</left>
 				<top>5</top>
-				<width>35</width>
-				<height>35</height>
+				<width>70</width>
+				<height>70</height>
 				<aspectratio>keep</aspectratio>
 				<texture>icon_favourites.png</texture>
 			</control>

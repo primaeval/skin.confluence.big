@@ -373,8 +373,8 @@
 	</include>
 	<include name="MainWindowMouseButtons">
 		<control type="group">
-			<left>120r</left>
-			<top>55r</top>
+			<left>155r</left>
+			<top>90r</top>
 			<animation effect="fade" time="200" condition="Window.Previous(Home)">WindowOpen</animation>
 			<animation effect="fade" time="200" condition="Window.Next(Home)">WindowClose</animation>
 			<visible>system.getbool(input.enablemouse)</visible>
@@ -382,8 +382,8 @@
 				<description>Back push button</description>
 				<left>0</left>
 				<top>0</top>
-				<width>45</width>
-				<height>45</height>
+				<width>70</width>
+				<height>70</height>
 				<label>1036</label>
 				<font>-</font>
 				<onclick>back</onclick>
@@ -398,8 +398,8 @@
 				<description>Back Icon</description>
 				<left>5</left>
 				<top>5</top>
-				<width>35</width>
-				<height>35</height>
+				<width>70</width>
+				<height>70</height>
 				<aspectratio>keep</aspectratio>
 				<texture>icon_back.png</texture>
 			</control>
@@ -407,8 +407,8 @@
 				<description>Home push button</description>
 				<left>55</left>
 				<top>0</top>
-				<width>45</width>
-				<height>45</height>
+				<width>70</width>
+				<height>70</height>
 				<label>31003</label>
 				<font>-</font>
 				<onclick>ActivateWindow(home)</onclick>
@@ -423,8 +423,8 @@
 				<description>Home Icon</description>
 				<left>60</left>
 				<top>5</top>
-				<width>35</width>
-				<height>35</height>
+				<width>70</width>
+				<height>70</height>
 				<aspectratio>keep</aspectratio>
 				<texture>icon_home.png</texture>
 			</control>
