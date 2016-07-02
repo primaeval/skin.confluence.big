@@ -231,7 +231,7 @@
 			<left>$PARAM[CloseButtonLeft]</left>
 			<top>15</top>
 			<width>64</width>
-			<height>32</height>
+			<height>64</height>
 			<label>-</label>
 			<font>-</font>
 			<onclick>PreviousMenu</onclick>
