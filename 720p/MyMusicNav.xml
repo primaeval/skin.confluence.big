@@ -56,6 +56,7 @@
 				<ondown>9000</ondown>
 				<onback>50</onback>
 				<itemgap>0</itemgap>
+				<include>CommonNowPlaying_Controls</include>                
 				<control type="label" id="200">
 					<width>450</width>
 					<height>35</height>
