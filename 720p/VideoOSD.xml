@@ -139,65 +139,7 @@
 				<onclick>PlayerControl(Next)</onclick>
 				<visible>!VideoPlayer.Content(LiveTV)</visible>
 			</control>
-			<control type="button" id="306">
-				<width>110</width>
-				<height>110</height>
-				<label>19019</label>
-				<font>-</font>
-				<texturefocus>OSDChannelListFO.png</texturefocus>
-				<texturenofocus>OSDChannelListNF.png</texturenofocus>
-				<onclick>ActivateWindow(PVROSDChannels)</onclick>
-				<onclick>Dialog.Close(VideoOSD)</onclick>
-				<visible>VideoPlayer.Content(LiveTV)</visible>
-			</control>
-			<control type="button" id="307">
-				<width>110</width>
-				<height>110</height>
-				<label>$LOCALIZE[19029]$INFO[VideoPlayer.ChannelName, - ]</label>
-				<font>-</font>
-				<texturefocus>OSDepgFO.png</texturefocus>
-				<texturenofocus>OSDepgNF.png</texturenofocus>
-				<onclick>ActivateWindow(PVROSDGuide)</onclick>
-				<onclick>Dialog.Close(VideoOSD)</onclick>
-				<visible>VideoPlayer.Content(LiveTV)</visible>
-			</control>
-			<control type="button" id="350">
-				<width>110</width>
-				<height>110</height>
-				<label>31356</label>
-				<font>-</font>
-				<texturefocus>OSDTeleTextFO.png</texturefocus>
-				<texturenofocus>OSDTeleTextNF.png</texturenofocus>
-				<onclick>ActivateWindow(Teletext)</onclick>
-				<visible>VideoPlayer.Content(LiveTV)</visible>
-			</control>
-			<control type="image" id="2200">
-				<width>270</width>
-				<texture>-</texture>
-				<visible>VideoPlayer.HasMenu + !VideoPlayer.Content(LiveTV)</visible>
-			</control>
-			<control type="image" id="2300">
-				<width>160</width>
-				<texture>-</texture>
-				<visible>VideoPlayer.Content(LiveTV)</visible>
-			</control>
-			<control type="image" id="2600">
-				<width>325</width>
-				<texture>-</texture>
-				<visible>!VideoPlayer.Content(LiveTV) + !VideoPlayer.HasMenu</visible>
-			</control>
-			<control type="button" id="255">
-				<enable>VideoPlayer.IsStereoscopic</enable>
-				<animation effect="fade" start="100" end="0" time="0" condition="!VideoPlayer.IsStereoscopic">Conditional</animation>
-				<width>110</width>
-				<height>110</height>
-				<label>36501</label>
-				<font>-</font>
-				<texturefocus>OSDStereoscopicFO.png</texturefocus>
-				<texturenofocus>OSDStereoscopicNF.png</texturenofocus>
-				<onup>501</onup>
-				<ondown>1000</ondown>
-			</control>
+
 			<control type="button" id="500">
 				<width>110</width>
 				<height>110</height>
@@ -273,6 +215,65 @@
 				<animation effect="fade" start="100" end="50" time="0" condition="!Player.CanRecord">Conditional</animation>
 				<visible>VideoPlayer.Content(LiveTV)</visible>
 			</control>
+			<control type="button" id="306">
+				<width>110</width>
+				<height>110</height>
+				<label>19019</label>
+				<font>-</font>
+				<texturefocus>OSDChannelListFO.png</texturefocus>
+				<texturenofocus>OSDChannelListNF.png</texturenofocus>
+				<onclick>ActivateWindow(PVROSDChannels)</onclick>
+				<onclick>Dialog.Close(VideoOSD)</onclick>
+				<visible>VideoPlayer.Content(LiveTV)</visible>
+			</control>
+			<control type="button" id="307">
+				<width>110</width>
+				<height>110</height>
+				<label>$LOCALIZE[19029]$INFO[VideoPlayer.ChannelName, - ]</label>
+				<font>-</font>
+				<texturefocus>OSDepgFO.png</texturefocus>
+				<texturenofocus>OSDepgNF.png</texturenofocus>
+				<onclick>ActivateWindow(PVROSDGuide)</onclick>
+				<onclick>Dialog.Close(VideoOSD)</onclick>
+				<visible>VideoPlayer.Content(LiveTV)</visible>
+			</control>
+			<control type="button" id="350">
+				<width>110</width>
+				<height>110</height>
+				<label>31356</label>
+				<font>-</font>
+				<texturefocus>OSDTeleTextFO.png</texturefocus>
+				<texturenofocus>OSDTeleTextNF.png</texturenofocus>
+				<onclick>ActivateWindow(Teletext)</onclick>
+				<visible>VideoPlayer.Content(LiveTV)</visible>
+			</control>
+			<control type="image" id="2200">
+				<width>270</width>
+				<texture>-</texture>
+				<visible>VideoPlayer.HasMenu + !VideoPlayer.Content(LiveTV)</visible>
+			</control>
+			<control type="image" id="2300">
+				<width>160</width>
+				<texture>-</texture>
+				<visible>VideoPlayer.Content(LiveTV)</visible>
+			</control>
+			<control type="image" id="2600">
+				<width>325</width>
+				<texture>-</texture>
+				<visible>!VideoPlayer.Content(LiveTV) + !VideoPlayer.HasMenu</visible>
+			</control>
+			<control type="button" id="255">
+				<enable>VideoPlayer.IsStereoscopic</enable>
+				<animation effect="fade" start="100" end="0" time="0" condition="!VideoPlayer.IsStereoscopic">Conditional</animation>
+				<width>110</width>
+				<height>110</height>
+				<label>36501</label>
+				<font>-</font>
+				<texturefocus>OSDStereoscopicFO.png</texturefocus>
+				<texturenofocus>OSDStereoscopicNF.png</texturenofocus>
+				<onup>501</onup>
+				<ondown>1000</ondown>
+			</control>            
 		</control>
 		<control type="button" id="410">
 			<description>Fake button for mouse control</description>
