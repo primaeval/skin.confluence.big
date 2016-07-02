@@ -47,7 +47,7 @@
 		</control>
 		<control type="grouplist" id="100">
 			<left>0</left>
-			<top>400r</top>
+			<top>300r</top>
 			<orientation>horizontal</orientation>
 			<itemgap>0</itemgap>
 			<animation effect="fade" time="0">VisibleChange</animation>

@@ -333,7 +333,7 @@
 					<visible>!VideoPlayer.Content(LiveTV)</visible>
 					<left>0</left>
 					<top>0</top>
-					<width>100</width>
+					<width>200</width>
 					<height>80</height>
 					<font>font13</font>
 					<align>left</align>
@@ -344,7 +344,7 @@
 					<visible>VideoPlayer.Content(LiveTV)</visible>
 					<left>0</left>
 					<top>0</top>
-					<width>100</width>
+					<width>200</width>
 					<height>80</height>
 					<font>font13</font>
 					<align>left</align>
@@ -371,9 +371,9 @@
 				</control>
 				<control type="label" id="1">
 					<visible>!VideoPlayer.Content(LiveTV)</visible>
-					<left>820</left>
+					<left>720</left>
 					<top>0</top>
-					<width>100</width>
+					<width>200</width>
 					<height>80</height>
 					<font>font13</font>
 					<align>right</align>
@@ -382,9 +382,9 @@
 				</control>
 				<control type="label" id="1">
 					<visible>VideoPlayer.Content(LiveTV)</visible>
-					<left>820</left>
+					<left>720</left>
 					<top>0</top>
-					<width>100</width>
+					<width>200</width>
 					<height>80</height>
 					<font>font13</font>
 					<align>right</align>
