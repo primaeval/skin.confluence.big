@@ -5,22 +5,22 @@
 		<font>
 			<name>font10</name>
 			<filename>Roboto-Regular.ttf</filename>
-			<size>14</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font12</name>
 			<filename>Roboto-Regular.ttf</filename>
-			<size>17</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font13</name>
 			<filename>Roboto-Regular.ttf</filename>
-			<size>20</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font14</name>
 			<filename>Roboto-Regular.ttf</filename>
-			<size>22</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font16</name>
@@ -35,23 +35,23 @@
 		<font>
 			<name>fontContextMenu</name>
 			<filename>Roboto-Regular.ttf</filename>
-			<size>18</size>
+			<size>24</size>
 		</font>
 		<!-- Title Fonts -->
 		<font>
 			<name>font10_title</name>
 			<filename>Roboto-Bold.ttf</filename>
-			<size>12</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font12_title</name>
 			<filename>Roboto-Bold.ttf</filename>
-			<size>17</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font13_title</name>
 			<filename>Roboto-Bold.ttf</filename>
-			<size>20</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font24_title</name>
@@ -89,12 +89,12 @@
 		<font>
 			<name>font10</name>
 			<filename>Roboto-Regular.ttf</filename>
-			<size>14</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font12</name>
 			<filename>Roboto-Regular.ttf</filename>
-			<size>23</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font13</name>
@@ -125,17 +125,17 @@
 		<font>
 			<name>font10_title</name>
 			<filename>Roboto-Bold.ttf</filename>
-			<size>12</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font12_title</name>
 			<filename>Roboto-Bold.ttf</filename>
-			<size>17</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font13_title</name>
 			<filename>Roboto-Bold.ttf</filename>
-			<size>20</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font24_title</name>
@@ -173,22 +173,22 @@
 		<font>
 			<name>font10</name>
 			<filename>Roboto-Regular.ttf</filename>
-			<size>14</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font12</name>
 			<filename>Roboto-Regular.ttf</filename>
-			<size>17</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font13</name>
 			<filename>Roboto-Regular.ttf</filename>
-			<size>20</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font14</name>
 			<filename>Roboto-Regular.ttf</filename>
-			<size>22</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font16</name>
@@ -203,23 +203,23 @@
 		<font>
 			<name>fontContextMenu</name>
 			<filename>Roboto-Regular.ttf</filename>
-			<size>18</size>
+			<size>24</size>
 		</font>
 		<!-- Title Fonts -->
 		<font>
 			<name>font10_title</name>
 			<filename>Roboto-Bold.ttf</filename>
-			<size>12</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font12_title</name>
 			<filename>Roboto-Bold.ttf</filename>
-			<size>17</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font13_title</name>
 			<filename>Roboto-Bold.ttf</filename>
-			<size>20</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font24_title</name>
@@ -262,22 +262,22 @@
 		<font>
 			<name>font12</name>
 			<filename>arial.ttf</filename>
-			<size>15</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font13</name>
 			<filename>arial.ttf</filename>
-			<size>18</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font14</name>
 			<filename>arial.ttf</filename>
-			<size>20</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font16</name>
 			<filename>arial.ttf</filename>
-			<size>23</size>
+			<size>24</size>
 		</font>
 		<font>
 			<name>font30</name>
@@ -287,31 +287,31 @@
 		<font>
 			<name>fontContextMenu</name>
 			<filename>arial.ttf</filename>
-			<size>16</size>
+			<size>24</size>
 		</font>
 		<!-- Title Fonts -->
 		<font>
 			<name>font10_title</name>
 			<filename>arial.ttf</filename>
-			<size>10</size>
+			<size>24</size>
 			<style>bold</style>
 		</font>
 		<font>
 			<name>font12_title</name>
 			<filename>arial.ttf</filename>
-			<size>15</size>
+			<size>24</size>
 			<style>bold</style>
 		</font>
 		<font>
 			<name>font13_title</name>
 			<filename>arial.ttf</filename>
-			<size>18</size>
+			<size>24</size>
 			<style>bold</style>
 		</font>
 		<font>
 			<name>font24_title</name>
 			<filename>arial.ttf</filename>
-			<size>22</size>
+			<size>24</size>
 			<style>bold</style>
 		</font>
 		<font>
