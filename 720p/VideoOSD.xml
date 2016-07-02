@@ -14,7 +14,7 @@
 			<left>84r</left>
 			<top>0</top>
 			<width>64</width>
-			<height>32</height>
+			<height>64</height>
 			<label>-</label>
 			<font>-</font>
 			<onclick>Dialog.Close(VideoOSD,true)</onclick>
@@ -33,9 +33,9 @@
 			<depth>DepthOSD+</depth>
 			<description>Seek Slider</description>
 			<left>430</left>
-			<top>82r</top>
+			<top>182r</top>
 			<width>720</width>
-			<height>16</height>
+			<height>32</height>
 			<onup>702</onup>
 			<ondown>26</ondown>
 			<action>seek</action>
@@ -46,16 +46,16 @@
 			<visible>![Window.IsVisible(SliderDialog) | Window.IsVisible(OSDVideoSettings) | Window.IsVisible(OSDAudioSettings) | Window.IsVisible(OSDAudioDSPSettings) | Window.IsVisible(VideoBookmarks) | VideoPlayer.Content(LiveTV)]</visible>
 		</control>
 		<control type="grouplist" id="100">
-			<left>325</left>
-			<top>60r</top>
+			<left>0</left>
+			<top>400r</top>
 			<orientation>horizontal</orientation>
 			<itemgap>0</itemgap>
 			<animation effect="fade" time="0">VisibleChange</animation>
 			<visible>![Window.IsVisible(SliderDialog) | Window.IsVisible(OSDVideoSettings) | Window.IsVisible(OSDAudioSettings) | Window.IsVisible(OSDAudioDSPSettings) | Window.IsVisible(VideoBookmarks) | Window.IsVisible(PVROSDChannels) | Window.IsVisible(PVROSDGuide)]</visible>
 			<onup>1000</onup>
 			<control type="button" id="300">
-				<width>55</width>
-				<height>55</height>
+				<width>110</width>
+				<height>110</height>
 				<label>210</label>
 				<font>-</font>
 				<texturefocus>OSDChannelUPFO.png</texturefocus>
@@ -64,8 +64,8 @@
 				<visible>VideoPlayer.Content(LiveTV)</visible>
 			</control>
 			<control type="button" id="301">
-				<width>55</width>
-				<height>55</height>
+				<width>110</width>
+				<height>110</height>
 				<label>209</label>
 				<font>-</font>
 				<texturefocus>OSDChannelDownFO.png</texturefocus>
@@ -74,8 +74,8 @@
 				<visible>VideoPlayer.Content(LiveTV)</visible>
 			</control>
 			<control type="button" id="200">
-				<width>55</width>
-				<height>55</height>
+				<width>110</width>
+				<height>110</height>
 				<label>210</label>
 				<font>-</font>
 				<texturefocus>OSDPrevTrackFO.png</texturefocus>
@@ -84,8 +84,8 @@
 				<visible>!VideoPlayer.Content(LiveTV)</visible>
 			</control>
 			<control type="button" id="201">
-				<width>55</width>
-				<height>55</height>
+				<width>110</width>
+				<height>110</height>
 				<label>31354</label>
 				<font>-</font>
 				<texturefocus>OSDRewindFO.png</texturefocus>
@@ -95,8 +95,8 @@
 				<onclick>PlayerControl(Rewind)</onclick>
 			</control>
 			<control type="togglebutton" id="202">
-				<width>55</width>
-				<height>55</height>
+				<width>110</width>
+				<height>110</height>
 				<label>31351</label>
 				<altlabel>208</altlabel>
 				<font>-</font>
@@ -110,8 +110,8 @@
 				<animation effect="fade" start="100" end="50" time="0" condition="!Player.PauseEnabled">Conditional</animation>
 			</control>
 			<control type="button" id="203">
-				<width>55</width>
-				<height>55</height>
+				<width>110</width>
+				<height>110</height>
 				<label>31352</label>
 				<font>-</font>
 				<texturefocus>OSDStopFO.png</texturefocus>
@@ -119,8 +119,8 @@
 				<onclick>PlayerControl(Stop)</onclick>
 			</control>
 			<control type="button" id="204">
-				<width>55</width>
-				<height>55</height>
+				<width>110</width>
+				<height>110</height>
 				<label>31353</label>
 				<font>-</font>
 				<texturefocus>OSDForwardFO.png</texturefocus>
@@ -130,8 +130,8 @@
 				<onclick>PlayerControl(Forward)</onclick>
 			</control>
 			<control type="button" id="205">
-				<width>55</width>
-				<height>55</height>
+				<width>110</width>
+				<height>110</height>
 				<label>209</label>
 				<font>-</font>
 				<texturefocus>OSDNextTrackFO.png</texturefocus>
@@ -140,8 +140,8 @@
 				<visible>!VideoPlayer.Content(LiveTV)</visible>
 			</control>
 			<control type="button" id="306">
-				<width>55</width>
-				<height>55</height>
+				<width>110</width>
+				<height>110</height>
 				<label>19019</label>
 				<font>-</font>
 				<texturefocus>OSDChannelListFO.png</texturefocus>
@@ -151,8 +151,8 @@
 				<visible>VideoPlayer.Content(LiveTV)</visible>
 			</control>
 			<control type="button" id="307">
-				<width>55</width>
-				<height>55</height>
+				<width>110</width>
+				<height>110</height>
 				<label>$LOCALIZE[19029]$INFO[VideoPlayer.ChannelName, - ]</label>
 				<font>-</font>
 				<texturefocus>OSDepgFO.png</texturefocus>
@@ -162,8 +162,8 @@
 				<visible>VideoPlayer.Content(LiveTV)</visible>
 			</control>
 			<control type="button" id="350">
-				<width>55</width>
-				<height>55</height>
+				<width>110</width>
+				<height>110</height>
 				<label>31356</label>
 				<font>-</font>
 				<texturefocus>OSDTeleTextFO.png</texturefocus>
@@ -189,8 +189,8 @@
 			<control type="button" id="255">
 				<enable>VideoPlayer.IsStereoscopic</enable>
 				<animation effect="fade" start="100" end="0" time="0" condition="!VideoPlayer.IsStereoscopic">Conditional</animation>
-				<width>55</width>
-				<height>55</height>
+				<width>110</width>
+				<height>110</height>
 				<label>36501</label>
 				<font>-</font>
 				<texturefocus>OSDStereoscopicFO.png</texturefocus>
@@ -198,9 +198,9 @@
 				<onup>501</onup>
 				<ondown>1000</ondown>
 			</control>
-			<control type="button" id="250">
-				<width>55</width>
-				<height>55</height>
+			<control type="button" id="500">
+				<width>110</width>
+				<height>110</height>
 				<label>31356</label>
 				<font>-</font>
 				<texturefocus>OSDSubtitlesFO.png</texturefocus>
@@ -209,8 +209,8 @@
 				<ondown>1000</ondown>
 			</control>
 			<control type="button" id="251">
-				<width>55</width>
-				<height>55</height>
+				<width>110</width>
+				<height>110</height>
 				<label>13395</label>
 				<font>-</font>
 				<texturefocus>OSDVideoFO.png</texturefocus>
@@ -220,8 +220,8 @@
 				<onclick>ActivateWindow(OSDVideoSettings)</onclick>
 			</control>
 			<control type="togglebutton" id="252">
-				<width>55</width>
-				<height>55</height>
+				<width>110</width>
+				<height>110</height>
 				<label>13396</label>
 				<font>-</font>
 				<texturefocus>OSDAudioFO.png</texturefocus>
@@ -234,8 +234,8 @@
 				<onclick>ActivateWindow(OSDAudioSettings)</onclick>
 			</control>
 			<control type="button" id="253">
-				<width>55</width>
-				<height>55</height>
+				<width>110</width>
+				<height>110</height>
 				<label>298</label>
 				<font>-</font>
 				<texturefocus>OSDBookmarksFO.png</texturefocus>
@@ -246,8 +246,8 @@
 				<visible>!VideoPlayer.Content(LiveTV)</visible>
 			</control>
 			<control type="button" id="254">
-				<width>55</width>
-				<height>55</height>
+				<width>110</width>
+				<height>110</height>
 				<label>31355</label>
 				<font>-</font>
 				<texturefocus>OSDDvdFO.png</texturefocus>
@@ -258,8 +258,8 @@
 				<visible>!VideoPlayer.Content(LiveTV) + VideoPlayer.HasMenu</visible>
 			</control>
 			<control type="togglebutton" id="353">
-				<width>55</width>
-				<height>55</height>
+				<width>110</width>
+				<height>110</height>
 				<label>264</label>
 				<altlabel>265</altlabel>
 				<font>-</font>
@@ -279,13 +279,13 @@
 			<right>145</right>
 			<bottom>60</bottom>
 			<width>256</width>
-			<height>250</height>
+			<height>500</height>
 			<label>-</label>
 			<font>-</font>
 			<texturenofocus>-</texturenofocus>
 			<texturefocus>-</texturefocus>
 			<animation effect="slide" start="0,0" end="55,0" time="0" condition="VideoPlayer.Content(LiveTV)">Conditional</animation>
-			<visible>Control.HasFocus(410) | Control.HasFocus(250) | ControlGroup(400).HasFocus</visible>
+			<visible>Control.HasFocus(410) | Control.HasFocus(500) | ControlGroup(400).HasFocus</visible>
 		</control>
 		<control type="grouplist" id="400">
 			<depth>DepthOSD+</depth>
@@ -302,10 +302,10 @@
 			<itemgap>0</itemgap>
 			<onleft>400</onleft>
 			<onright>400</onright>
-			<onup>250</onup>
-			<ondown>250</ondown>
+			<onup>500</onup>
+			<ondown>500</ondown>
 			<orientation>vertical</orientation>
-			<visible>Control.HasFocus(410) | Control.HasFocus(250) | ControlGroup(400).HasFocus</visible>
+			<visible>Control.HasFocus(410) | Control.HasFocus(500) | ControlGroup(400).HasFocus</visible>
 			<include>VisibleFadeEffect</include>
 			<control type="group">
 				<description>Header</description>
