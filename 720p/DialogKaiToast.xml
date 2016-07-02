@@ -31,7 +31,7 @@
 				<left>75</left>
 				<top>15</top>
 				<width>310</width>
-				<height>18</height>
+				<height>64</height>
 				<font>font12_title</font>
 				<textcolor>white</textcolor>
 				<align>left</align>
@@ -44,7 +44,7 @@
 				<left>75</left>
 				<top>35</top>
 				<width>310</width>
-				<height>20</height>
+				<height>64</height>
 				<font>font12_title</font>
 				<textcolor>grey2</textcolor>
 				<align>left</align>
